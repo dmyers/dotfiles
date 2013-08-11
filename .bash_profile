@@ -23,3 +23,9 @@ export HISTCONTROL=ignoredups
 
 # Always enable colored `grep` output
 export GREP_OPTIONS="--color=auto"
+
+# Enable colors in CLI
+export CLICOLOR=1
+
+# Set colors for LS
+export LSCOLORS="gxfxcxdxbxegedabagacad"
