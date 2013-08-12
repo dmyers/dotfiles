@@ -1,3 +1,9 @@
 [user]
-	name = Derek Myers
-	email = arcticpro@gmail.com
+  name = Derek Myers
+  email = arcticpro@gmail.com
+  
+[color]
+  ui = auto
+  
+[core]
+  editor = subl
