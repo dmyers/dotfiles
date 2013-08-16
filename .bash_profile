@@ -35,3 +35,8 @@ export CLICOLOR=1
 
 # Set colors for LS
 export LSCOLORS="gxfxcxdxbxegedabagacad"
+
+# Load Bash completion
+if [ -f $(brew --prefix)/etc/bash_completion ]; then
+  . $(brew --prefix)/etc/bash_completion
+fi
