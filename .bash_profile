@@ -40,3 +40,6 @@ export LSCOLORS="gxfxcxdxbxegedabagacad"
 if [ -f $(brew --prefix)/etc/bash_completion ]; then
   . $(brew --prefix)/etc/bash_completion
 fi
+
+# Load GRC settings
+source "`brew --prefix grc`/etc/grc.bashrc"
