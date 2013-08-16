@@ -4,6 +4,9 @@ export PATH="$HOME/bin:$PATH"
 # Add brew to PATH
 export PATH="/usr/local/bin:$PATH"
 
+# Add the coreutils to PATH
+export PATH="`brew --prefix coreutils`/libexec/gnubin:$PATH"
+
 # Append to the Bash history file, rather than overwriting it
 shopt -s histappend
 
