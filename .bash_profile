@@ -1,6 +1,9 @@
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH"
 
+# Add brew to PATH
+export PATH="/usr/local/bin:$PATH"
+
 # Append to the Bash history file, rather than overwriting it
 shopt -s histappend
 
