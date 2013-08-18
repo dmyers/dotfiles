@@ -1,0 +1,2 @@
+# Set rvmsudo up
+export rvmsudo_secure_path=1
