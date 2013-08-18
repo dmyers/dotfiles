@@ -21,6 +21,9 @@ defaults write com.apple.LaunchServices LSQuarantine -bool false
 # Check for software updates daily, not just once per week
 defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
 
+# Disable the “Reopen windows when logging back in” checkbox in dialog
+defaults write com.apple.loginwindow LoginwindowLaunchesRelaunchApps -bool false
+
 ###############################################################################
 # Finder                                                                      #
 ###############################################################################
