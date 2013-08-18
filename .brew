@@ -25,3 +25,6 @@ brew install homebrew/dupes/grep
 # Install other useful binaries
 brew install wget
 brew install grc
+
+# Install Python
+brew install python
