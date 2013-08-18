@@ -3,3 +3,6 @@ export PATH="/usr/local/bin:$PATH"
 
 # Add the coreutils to PATH
 export PATH="`brew --prefix coreutils`/libexec/gnubin:$PATH"
+
+# Add python to PATH
+export PATH="/usr/local/share/python:$PATH"
