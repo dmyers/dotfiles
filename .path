@@ -6,3 +6,6 @@ export PATH="`brew --prefix coreutils`/libexec/gnubin:$PATH"
 
 # Add python to PATH
 export PATH="/usr/local/share/python:$PATH"
+
+# Add RVM to PATH
+export PATH="$PATH:$HOME/.rvm/bin"
