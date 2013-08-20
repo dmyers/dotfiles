@@ -28,3 +28,6 @@ brew install grc
 
 # Install Python
 brew install python
+
+# Install hub
+brew install hub
