@@ -31,3 +31,6 @@ brew install python
 
 # Install hub
 brew install hub
+
+# Install jq
+brew install jq
