@@ -7,3 +7,6 @@
   
 [core]
   editor = subl
+
+[push]
+  default = simple
