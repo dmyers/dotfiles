@@ -1,0 +1,18 @@
+# Install native apps
+brew tap phinze/homebrew-cask
+brew install brew-cask
+
+brew cask install adium
+brew cask install evernote
+brew cask install firefox
+brew cask install google-chrome
+brew cask install sequel-pro
+brew cask install shuttle
+brew cask install sublime-text
+brew cask install skype
+brew cask install spotify
+brew cask install spotifree
+brew cask install sourcetree
+brew cask install transmission
+brew cask install virtualbox
+brew cask install vlc
