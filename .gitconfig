@@ -6,7 +6,7 @@
   ui = auto
   
 [core]
-  editor = subl
+  editor = subl -w
 
 [push]
   default = simple
