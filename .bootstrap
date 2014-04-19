@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+# Setup OSX
+.osx
+
+# Install Brew
+ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+
+# Setup Brew
+.brew
+
+# Setup Cask
+.cask
+
+# Install RVM
+\curl -L https://get.rvm.io | bash -s stable --ruby
+
+# Install httpie
+pip install httpie
+
+# Install gems
+bundle install
