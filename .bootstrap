@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Install command line tools
+xcode-select --install
+
 # Setup OSX
 .osx
 
