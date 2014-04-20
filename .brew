@@ -18,6 +18,10 @@ brew install bash
 # Install Bash completion
 brew install bash-completion
 
+# Install Bash completions
+brew tap homebrew/completions
+brew install vagrant-completion
+
 # Install more recent versions of some OS X tools
 brew tap homebrew/dupes
 brew install homebrew/dupes/grep
@@ -25,6 +29,16 @@ brew install homebrew/dupes/grep
 # Install other useful binaries
 brew install wget
 brew install grc
+
+# Install PHP
+brew tap homebrew/php
+brew install php54
+
+# Install PHP extensions
+brew install php54mcrypt
+
+# Install Composer
+brew install composer
 
 # Install Python
 brew install python
