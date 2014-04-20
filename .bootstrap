@@ -15,8 +15,8 @@ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 # Install RVM
 \curl -L https://get.rvm.io | bash -s stable --ruby
 
+# Install Ruby gems
+.gems
+
 # Install httpie
 pip install httpie
-
-# Install gems
-bundle install

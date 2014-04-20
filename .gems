@@ -1,0 +1,17 @@
+gem install awesome_print
+gem install brakeman
+gem install bullet
+gem install capistrano
+gem install faker
+gem install fakefs
+gem install groupdate
+gem install html2haml
+gem install pry
+gem install table_print
+gem install airplay
+gem install mailcatcher
+gem install backup
+gem install ec2ssh
+gem install image_optim
+gem install smusher
+gem install spotify-to-mp3
