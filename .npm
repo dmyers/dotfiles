@@ -1,0 +1,6 @@
+# Development
+npm install -g requirejs
+
+# Tools
+npm install -g pageres
+npm install -g peerflix
