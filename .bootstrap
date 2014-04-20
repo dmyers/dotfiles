@@ -26,3 +26,6 @@ curl -L https://npmjs.org/install.sh | sh
 
 # Install httpie
 pip install httpie
+
+# Install Vagrant plugins
+.vagrant
