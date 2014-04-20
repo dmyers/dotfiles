@@ -15,9 +15,6 @@ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 # Install RVM
 \curl -L https://get.rvm.io | bash -s stable --ruby
 
-# Install Npm
-curl -L https://npmjs.org/install.sh | sh
-
 # Install Ruby gems
 .gems
 

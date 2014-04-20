@@ -43,6 +43,9 @@ brew install php54mcrypt
 # Install Composer
 brew install composer
 
+# Install Node
+brew install node
+
 # Install Python
 brew install python
 
