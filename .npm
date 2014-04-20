@@ -3,6 +3,7 @@ npm install -g requirejs
 
 # Tools
 npm install -g bower
+npm install -g grunt-cli
 npm install -g imageoptim-cli
 npm install -g pageres
 npm install -g peerflix
