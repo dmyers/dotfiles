@@ -30,6 +30,9 @@ brew install homebrew/dupes/grep
 brew install wget
 brew install grc
 
+# Install mcrypt
+brew install mcrypt
+
 # Install PHP
 brew tap homebrew/php
 brew install php54
