@@ -61,3 +61,6 @@ brew installl sqlite
 # Install gitsh
 brew tap thoughtbot/formulae
 brew install gitsh
+
+# Install image optimizers
+brew install advancecomp gifsicle jhead jpegoptim jpeg optipng pngcrush
