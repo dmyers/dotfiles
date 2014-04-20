@@ -21,5 +21,8 @@ curl -L https://npmjs.org/install.sh | sh
 # Install Ruby gems
 .gems
 
+# Install NPM packages
+.npm
+
 # Install httpie
 pip install httpie
