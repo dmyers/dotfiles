@@ -3,11 +3,22 @@ brew tap phinze/homebrew-cask
 brew install brew-cask
 
 brew cask install adium
+brew cask install appcleaner
+brew cask install caffiene
+brew cask install colloquy
+brew cask install dropbox
 brew cask install evernote
 brew cask install firefox
+brew cask install flux
+brew cask install fontprep
 brew cask install google-chrome
+brew cask install google-drive
+brew cask install google-hangouts
+brew cask install hipchat
 brew cask install imagealpha
 brew cask install imageoptim
+brew cask install iterm2
+brew cask install jewelrybox
 brew cask install sequel-pro
 brew cask install shuttle
 brew cask install sublime-text
@@ -15,6 +26,7 @@ brew cask install skype
 brew cask install spotify
 brew cask install spotifree
 brew cask install sourcetree
+brew cask install steam
 brew cask install transmission
 brew cask install virtualbox
 brew cask install vlc
