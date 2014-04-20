@@ -19,6 +19,7 @@ brew cask install imagealpha
 brew cask install imageoptim
 brew cask install iterm2
 brew cask install jewelrybox
+brew cask install mou
 brew cask install sequel-pro
 brew cask install shuttle
 brew cask install sublime-text
