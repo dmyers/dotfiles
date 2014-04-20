@@ -48,3 +48,7 @@ brew install hub
 
 # Install jq
 brew install jq
+
+# Install gitsh
+brew tap thoughtbot/formulae
+brew install gitsh
