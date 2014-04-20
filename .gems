@@ -2,6 +2,7 @@ gem install awesome_print
 gem install brakeman
 gem install bullet
 gem install capistrano
+gem install csscss
 gem install faker
 gem install fakefs
 gem install groupdate
