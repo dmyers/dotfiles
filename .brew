@@ -49,6 +49,9 @@ brew install node
 # Install Python
 brew install python
 
+# Install Git
+brew install git
+
 # Install hub
 brew install hub
 
