@@ -53,7 +53,7 @@ brew install hub
 brew install jq
 
 # Install AWS Elastic Beanstalk
-brew installl aws-elasticbeanstalk
+brew install aws-elasticbeanstalk
 
 # Install Sqlite
 brew installl sqlite
