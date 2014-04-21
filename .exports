@@ -20,3 +20,6 @@ export CLICOLOR=1
 
 # Set colors for LS
 export LSCOLORS="gxfxcxdxbxegedabagacad"
+
+# Set Cask app dir
+export HOMEBREW_CASK_OPTS="--appdir=/Applications"
