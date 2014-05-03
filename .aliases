@@ -7,3 +7,6 @@ fi
 
 # Always use color output for `ls`
 alias ls="command ls ${colorflag}"
+
+# Get OS X Software Updates, update installed Homebrew, and their installed packages
+alias update="sudo softwareupdate -i -a; brew update; brew upgrade; brew cleanup;"
