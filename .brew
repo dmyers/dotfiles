@@ -58,8 +58,8 @@ brew install hub
 # Install jq
 brew install jq
 
-# Install AWS Elastic Beanstalk
-brew install aws-elasticbeanstalk
+# Install AWS tools
+brew install awscli aws-elasticbeanstalk
 
 # Install Sqlite
 brew installl sqlite
