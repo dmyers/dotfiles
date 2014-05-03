@@ -12,6 +12,9 @@ sudo spctl --master-disable
 # Set standby delay to 24 hours (default is 1 hour)
 sudo pmset -a standbydelay 86400
 
+# Disable the sound effects on boot
+sudo nvram SystemAudioVolume=" "
+
 # Save to disk (not to iCloud) by default
 defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
 
