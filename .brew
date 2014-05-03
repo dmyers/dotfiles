@@ -74,6 +74,9 @@ brew install advancecomp gifsicle jhead jpegoptim jpeg optipng pngcrush
 # Install tree
 brew install tree
 
+# Install pstree
+brew install pstree
+
 # Install htop
 brew install htop-osx
 
