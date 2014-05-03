@@ -44,5 +44,5 @@ export WHITE
 export BOLD
 export RESET
 
-export PS1="\[${BOLD}${BLUE}\]\u \[$WHITE\]at \[$ORANGE\]\h \[$WHITE\]in \[$GREEN\]\w\[$WHITE\]\n\$ \[$RESET\]"
+export PS1="\[${BOLD}${BLUE}\]\u\[$WHITE\]@\[$ORANGE\]\h\[$WHITE\]: \[$GREEN\]\w\[$WHITE\]\n\$ \[$RESET\]"
 export PS2="\[$ORANGE\]→ \[$RESET\]"
