@@ -38,7 +38,7 @@ brew tap homebrew/php
 brew install php54
 
 # Install PHP extensions
-brew install php54mcrypt
+brew install php54-geoip php54-mcrypt php54-xdebug
 
 # Install Composer
 brew install composer
