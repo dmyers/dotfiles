@@ -4,6 +4,7 @@ brew install brew-cask
 
 brew cask install adium
 brew cask install appcleaner
+brew cask install atom
 brew cask install caffiene
 brew cask install cakebrew
 brew cask install colloquy
