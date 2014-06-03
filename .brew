@@ -85,3 +85,6 @@ brew install htop-osx
 
 # Install geoip
 brew install geoip
+
+# Install ievms
+brew install ievms
