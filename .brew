@@ -33,6 +33,9 @@ brew install grc
 # Install httpie
 brew install httpie
 
+# Install MySQL
+brew install mysql
+
 # Install gd
 brew install gd
 
