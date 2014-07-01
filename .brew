@@ -30,6 +30,9 @@ brew install homebrew/dupes/grep
 brew install wget
 brew install grc
 
+# Install httpie
+brew install httpie
+
 # Install gd
 brew install gd
 

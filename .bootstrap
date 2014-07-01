@@ -27,9 +27,6 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 # Install NPM packages
 .npm
 
-# Install httpie
-pip install httpie
-
 # Instlal storm
 pip install stormssh
 
