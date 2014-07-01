@@ -62,7 +62,7 @@ brew install hub
 brew install jq
 
 # Install AWS tools
-brew install awscli aws-elasticbeanstalk
+brew install awscli aws-elasticbeanstalk rds-command-line-tools
 
 # Install Sqlite
 brew installl sqlite
