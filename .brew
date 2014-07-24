@@ -30,6 +30,7 @@ brew install homebrew/dupes/grep
 brew install wget
 brew install grc
 brew install ssh-copy-id
+brew install man2html
 
 # Install httpie
 brew install httpie
