@@ -5,6 +5,8 @@ npm install -g requirejs
 npm install -g bower
 npm install -g grunt-cli
 npm install -g imageoptim-cli
+npm install -g jshint
+npm install -g node
 npm install -g nodewebkit
 npm install -g pageres
 npm install -g peerflix
