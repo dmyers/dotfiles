@@ -102,3 +102,7 @@ brew install docker
 
 # Install boot2docker
 brew install boot2docker
+
+# Install dvm
+brew tap fnichol/dvm
+brew install dvm
