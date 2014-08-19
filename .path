@@ -7,5 +7,8 @@ export PATH="`brew --prefix coreutils`/libexec/gnubin:$PATH"
 # Add PHP to path
 export PATH="$(brew --prefix php54)/bin:$PATH"
 
+# Add composer to path
+export PATH="$HOME/.composer/vendor/bin:$PATH"
+
 # Add RVM to PATH
 export PATH="$PATH:$HOME/.rvm/bin"
