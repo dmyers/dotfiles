@@ -96,3 +96,9 @@ brew install geoip
 
 # Install ievms
 brew install ievms
+
+# Install docker
+brew install docker
+
+# Install boot2docker
+brew install boot2docker
