@@ -18,3 +18,4 @@ gem install image_optim
 gem install smusher
 gem install spotify-to-mp3
 gem install whois
+gem install jekyll
