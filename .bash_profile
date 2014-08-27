@@ -9,6 +9,9 @@ for file in ~/.{path,bash_prompt,exports,aliases,functions,extra}; do
 done
 unset file
 
+# Disable mail check
+unset MAILCHECK
+
 # Append to the Bash history file, rather than overwriting it
 shopt -s histappend
 
