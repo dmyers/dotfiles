@@ -91,6 +91,9 @@ brew install pstree
 # Install htop
 brew install htop-osx
 
+# Install sshrc
+brew install sshrc
+
 # Install geoip
 brew install geoip
 
