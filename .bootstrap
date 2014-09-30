@@ -27,7 +27,7 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 # Install NPM packages
 .npm
 
-# Instlal storm
+# Install storm
 pip install stormssh
 
 # Install Vagrant plugins
