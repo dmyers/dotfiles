@@ -20,3 +20,12 @@ gem install spotify-to-mp3
 gem install whois
 gem install jekyll
 gem install lunchy
+gem install lol_dba
+gem install debugger
+gem install quiet_assets
+gem install simple-navigation
+gem install high_voltage
+gem install meta-tags
+gem install devise
+gem install better_errors
+gem insatll meta_request
