@@ -1,7 +1,4 @@
 # Install native apps
-brew tap phinze/homebrew-cask
-brew install brew-cask
-
 brew cask install adium
 brew cask install appcleaner
 brew cask install atom
