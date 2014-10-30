@@ -20,6 +20,7 @@ brew cask install hipchat
 brew cask install imagealpha
 brew cask install imageoptim
 brew cask install iterm2
+brew cask install java
 brew cask install jewelrybox
 brew cask install kitematic
 brew cask install mou
