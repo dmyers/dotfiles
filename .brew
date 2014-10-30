@@ -32,9 +32,6 @@ brew install grc
 brew install ssh-copy-id
 brew install man2html
 
-# Install java
-brew install java
-
 # Install httpie
 brew install httpie
 
