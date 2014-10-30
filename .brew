@@ -109,3 +109,6 @@ brew install boot2docker
 # Install dvm
 brew tap fnichol/dvm
 brew install dvm
+
+# Install cask
+brew install caskroom/cask/brew-cask
