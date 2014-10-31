@@ -49,7 +49,7 @@ brew tap homebrew/php
 brew install php55
 
 # Install PHP extensions
-brew install php55-geoip php55-mcrypt php55-xdebug
+brew install php55-geoip php55-mcrypt php55-xdebug php55-imagick php55-gmagick
 
 # Install Composer
 brew install composer
