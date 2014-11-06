@@ -28,4 +28,5 @@ gem install high_voltage
 gem install meta-tags
 gem install devise
 gem install better_errors
-gem insatll meta_request
+gem install meta_request
+gem install did_you_mean
