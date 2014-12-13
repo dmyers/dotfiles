@@ -113,3 +113,6 @@ brew install dvm
 
 # Install cask
 brew install caskroom/cask/brew-cask
+
+# Install icdiff
+brew install icdiff
