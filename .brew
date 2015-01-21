@@ -116,3 +116,6 @@ brew install caskroom/cask/brew-cask
 
 # Install icdiff
 brew install icdiff
+
+# Install gifify
+brew install gifify
