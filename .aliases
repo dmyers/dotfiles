@@ -11,5 +11,8 @@ alias ls="command ls ${colorflag}"
 # Get OS X Software Updates, update installed Homebrew, and their installed packages
 alias update="sudo softwareupdate -i -a; brew update; brew upgrade; brew cleanup;"
 
+# Get public IP address
+alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
+
 # Get local IP address
 alias localip="ipconfig getifaddr en0"
