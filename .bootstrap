@@ -21,6 +21,9 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 # Install RVM
 \curl -L https://get.rvm.io | bash -s stable --ruby
 
+# Install Composer packages
+.composer
+
 # Install Ruby gems
 .gems
 
