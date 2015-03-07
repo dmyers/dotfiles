@@ -8,9 +8,6 @@
 [core]
   editor = subl -w
   pager = cat
-
-[push]
-  default = simple
   
 [help]
   autocorrect = 1
