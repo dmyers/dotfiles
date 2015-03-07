@@ -10,7 +10,7 @@ xcode-select --install
 .osx
 
 # Install Brew
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # Setup Brew
 .brew
