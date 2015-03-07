@@ -8,8 +8,8 @@ fi
 # Always use color output for `ls`
 alias ls="command ls ${colorflag}"
 
-# Get OS X Software Updates, update installed Homebrew, and their installed packages
-alias update="sudo softwareupdate -i -a; brew update; brew upgrade; brew cleanup;"
+# Update installed Homebrew and their installed packages
+alias update="brew update; brew upgrade; brew cleanup;"
 
 # Get public IP address
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
