@@ -8,8 +8,8 @@ fi
 # Always use color output for `ls`
 alias ls="command ls ${colorflag}"
 
-# Update installed Homebrew and their installed packages
-alias update="brew update; brew upgrade; brew cleanup;"
+# Update installed Homebrew, Composer, and their installed packages
+alias update="brew update; brew upgrade; brew cleanup; composer self-update; composer global update;"
 
 # Get public IP address
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
