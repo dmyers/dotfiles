@@ -35,3 +35,9 @@ pip install stormssh
 
 # Install Vagrant plugins
 .vagrant
+
+# Create user bin folder
+mkdir ~/bin
+
+# Symlink subl command
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
