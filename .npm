@@ -11,3 +11,4 @@ npm install -g node-inspector
 npm install -g nodewebkit
 npm install -g pageres
 npm install -g peerflix
+npm install -g api-benchmark
