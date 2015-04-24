@@ -12,3 +12,4 @@ npm install -g nodewebkit
 npm install -g pageres
 npm install -g peerflix
 npm install -g api-benchmark
+npm install -g request
