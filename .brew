@@ -120,3 +120,6 @@ brew install icdiff
 
 # Install gifify
 brew install gifify
+
+# Install vegeta
+brew install vegeta
