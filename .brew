@@ -123,3 +123,6 @@ brew install gifify
 
 # Install vegeta
 brew install vegeta
+
+# Install fail2ban
+brew install fail2ban
