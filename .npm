@@ -16,3 +16,5 @@ npm install -g request
 npm install -g underscore
 npm install -g open
 npm install -g supervisor
+npm install -g nodemon
+npm install -g forever
