@@ -133,3 +133,6 @@ brew install fail2ban
 # Install chswift
 brew tap neonichu/formulae
 brew install chswift
+
+# Install wrk
+brew install wrk
