@@ -20,3 +20,4 @@ npm install -g nodemon
 npm install -g forever
 npm install -g express-generator
 npm install -g toxy
+npm install -g hostile
