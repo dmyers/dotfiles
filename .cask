@@ -21,6 +21,7 @@ brew cask install java
 brew cask install jewelrybox
 brew cask install kitematic
 brew cask install mou
+brew cask install pusher
 brew cask install sequel-pro
 brew cask install shuttle
 brew cask install sublime-text
