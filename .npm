@@ -22,3 +22,4 @@ npm install -g forever
 npm install -g express-generator
 npm install -g toxy
 npm install -g hostile
+npm install -g http-server
