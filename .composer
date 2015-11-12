@@ -1,3 +1,4 @@
 composer global require "laravel/homestead=~2.1"
 composer global require "laravel/installer=~1.2"
 composer global require "laravel/envoy=~1.0"
+composer global require "fabpot/php-cs-fixer=~1.0"
