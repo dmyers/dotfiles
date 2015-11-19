@@ -129,3 +129,6 @@ brew install chswift
 
 # Install wrk
 brew install wrk
+
+# Install mitmproxy
+brew install mitmproxy
