@@ -132,3 +132,6 @@ brew install wrk
 
 # Install mitmproxy
 brew install mitmproxy
+
+# Install spoofmac
+brew install spoof-mac
