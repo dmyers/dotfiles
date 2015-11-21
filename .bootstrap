@@ -6,9 +6,6 @@ sudo -v
 # Install command line tools
 xcode-select --install
 
-# Setup OSX
-.osx
-
 # Install Brew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
