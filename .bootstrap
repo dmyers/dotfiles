@@ -12,6 +12,9 @@ tar -zxvf dotfiles.tar.gz
 cp -rf dotfiles-master/.* ~/
 rm -rf dotfiles-master
 
+# Create user bin folder
+mkdir ~/bin
+
 # Install Brew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
@@ -35,9 +38,6 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 # Install Vagrant plugins
 .vagrant
-
-# Create user bin folder
-mkdir ~/bin
 
 # Symlink subl command
 ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
