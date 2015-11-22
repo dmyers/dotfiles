@@ -40,5 +40,6 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 # Install Vagrant plugins
 ./.vagrant
 
+cd ../;
 rm -rf dotfiles-master;
 source ~/.bash_profile;
