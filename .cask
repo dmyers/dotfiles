@@ -1,44 +1,41 @@
 #!/usr/bin/env bash
 
-# Install native apps
+# General
+brew cask install java
 brew cask install adium
 brew cask install appcleaner
-brew cask install atom
 brew cask install caffiene
-brew cask install cakebrew
 brew cask install dropbox
-brew cask install dockertoolbox
 brew cask install evernote
 brew cask install firefox
 brew cask install flux
-brew cask install fontprep
-brew cask install google-chrome
-brew cask install google-drive
-brew cask install google-hangouts
-brew cask install hipchat
-brew cask install imagealpha
-brew cask install imageoptim
-brew cask install iterm2
-brew cask install istumbler
-brew cask install java
-brew cask install jewelrybox
-brew cask install kitematic
 brew cask install komanda
 brew cask install mou
+brew cask install google-chrome google-drive google-hangouts
+brew cask install hipchat
+brew cask install skype
+brew cask install spotify spotifree
+brew cask install steam
+brew cask install transmission
+brew cask install vlc
+
+# Development
+brew cask install atom
+brew cask install cakebrew
+brew cask install dockertoolbox
+brew cask install fontprep
+brew cask install imagealpha imageoptim
+brew cask install iterm2
+brew cask install istumbler
+brew cask install jewelrybox
+brew cask install kitematic
 brew cask install pusher
 brew cask install sequel-pro
 brew cask install shuttle
 brew cask install sublime-text
-brew cask install skype
-brew cask install spotify
-brew cask install spotifree
 brew cask install sourcetree
-brew cask install steam
-brew cask install transmission
-brew cask install vagrant
-brew cask install vagrant-manager
+brew cask install vagrant vagrant-manager
 brew cask install virtualbox
-brew cask install vlc
 
 # Symlink subl command
 ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
