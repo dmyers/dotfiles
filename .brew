@@ -4,7 +4,7 @@
 brew update
 
 # Upgrade any already-installed formulae
-brew upgrade
+brew upgrade -all
 
 # Tap more package sources
 brew tap homebrew/completions
@@ -24,7 +24,7 @@ brew install findutils
 # Install Bash 4
 brew install bash
 
-# Install more recent versions of some OS X tools
+# Install more recent versions of some OSX tools
 brew install homebrew/dupes/grep
 brew install homebrew/dupes/openssh
 
@@ -88,3 +88,6 @@ brew install grunt-completion
 brew install docker-completion docker-machine-completion
 brew install vagrant-completion
 brew install wpcli-completion
+
+# Remove outdated versions from the cellar
+brew cleanup
