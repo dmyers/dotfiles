@@ -1,10 +1,10 @@
 # Dotfiles
 
-My personal setup with Unix dotfile preferences and Mac OSX setup script.
+My personal setup with Unix dotfile preferences and Mac OSX setup scripts.
 
 ![Terminal screenshot](https://raw.github.com/dmyers/dotfiles/master/screenshot.png)
 
-I am using the [Solarized](http://ethanschoonover.com/solarized) theme for Terminal.
+The terminal theme is [Solarized](http://ethanschoonover.com/solarized).
 
 ## Setup
 
