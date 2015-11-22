@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Install native apps
 brew cask install adium
 brew cask install appcleaner

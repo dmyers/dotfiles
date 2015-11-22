@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 gem install awesome_print
 gem install brakeman
 gem install bullet
