@@ -23,7 +23,6 @@ brew install findutils
 
 # Install Bash 4
 brew install bash
-brew install bash-completion
 
 # Install more recent versions of some OS X tools
 brew install homebrew/dupes/grep
@@ -71,7 +70,6 @@ brew install php55-geoip php55-mcrypt php55-xdebug php55-imagick php55-gmagick
 brew install hub
 brew install jq
 brew install gitsh
-brew install vagrant-completion
 brew install ievms
 brew install geoip
 brew install vegeta
@@ -81,3 +79,10 @@ brew install mitmproxy
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk rds-command-line-tools
+
+# Install CLI completions
+brew install bash-completion
+brew install grunt-completion
+brew install docker-completion docker-machine-completion
+brew install vagrant-completion
+brew install wpcli-completion
