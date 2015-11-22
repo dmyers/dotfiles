@@ -32,9 +32,6 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 # Install NPM packages
 .npm
 
-# Install storm
-pip install stormssh
-
 # Install Vagrant plugins
 .vagrant
 

@@ -135,3 +135,6 @@ brew install mitmproxy
 
 # Install spoofmac
 brew install spoof-mac
+
+# Install storm
+brew install stormssh
