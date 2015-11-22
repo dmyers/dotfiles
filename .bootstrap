@@ -12,8 +12,9 @@ tar -zxvf dotfiles.tar.gz
 rm -f dotfiles.tar.gz
 cd dotfiles-master
 for file in {aliases,bash_profile,bash_prompt,bashrc,exports,functions,gemrc,gitconfig,hushlogin,inputrc,irbrc,path,pryrc,rspec,wgetrc}; do
-  cp -f ."$file" ~/."$file"
-done
+  cp -f ."$file" ~/."$file";
+done;
+unset file;
 
 # Create user bin folder
 mkdir ~/bin
