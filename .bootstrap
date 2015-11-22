@@ -7,9 +7,10 @@ sudo -v
 xcode-select --install
 
 # Setup dotfiles
-git clone http://github.com/dmyers/dotfiles
-cp -rf dotfiles/.* ~/
-rm -rf dotfiles
+curl -Lo dotfiles.tar.gz https://github.com/dmyers/dotfiles/archive/master.tar.gz
+tar -zxvf dotfiles.tar.gz
+cp -rf dotfiles-master/.* ~/
+rm -rf dotfiles-master
 
 # Install Brew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
