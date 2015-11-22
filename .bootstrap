@@ -15,14 +15,14 @@ rm -rf dotfiles-master
 # Create user bin folder
 mkdir ~/bin
 
+# Install RVM
+\curl -L https://get.rvm.io | bash -s stable --ruby
+
 # Install Brew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # Setup Brew
 .brew
-
-# Install RVM
-\curl -L https://get.rvm.io | bash -s stable --ruby
 
 # Install Composer packages
 .composer
