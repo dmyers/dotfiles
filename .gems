@@ -1,10 +1,19 @@
 #!/usr/bin/env bash
 
+# Install CLI tools
+gem install mailcatcher
+gem install xcode-install
+gem install ec2ssh
+gem install capistrano
+gem install smusher
+gem install spotify-to-mp3
+gem install lunchy
+
+# Install dev tools
 gem install awesome_print
 gem install brakeman
 gem install bullet
 gem install bundler
-gem install capistrano
 gem install csscss
 gem install faker
 gem install fakefs
@@ -13,15 +22,10 @@ gem install html2haml
 gem install pry
 gem install table_print
 gem install airplay
-gem install mailcatcher
 gem install backup
-gem install ec2ssh
 gem install image_optim
-gem install smusher
-gem install spotify-to-mp3
 gem install whois
 gem install jekyll
-gem install lunchy
 gem install lol_dba
 gem install debugger
 gem install quiet_assets
@@ -32,4 +36,3 @@ gem install devise
 gem install better_errors
 gem install meta_request
 gem install did_you_mean
-gem install xcode-install
