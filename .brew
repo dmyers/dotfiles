@@ -67,6 +67,8 @@ brew install sqlite
 brew install mysql
 brew install rethinkdb
 brew install influxdb chronograf
+brew install redis
+brew install elasticsearch
 brew install gd
 brew install mcrypt
 brew install php55
