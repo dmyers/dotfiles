@@ -7,6 +7,7 @@ brew update
 brew upgrade -all
 
 # Tap more package sources
+brew tap homebrew/binary
 brew tap homebrew/completions
 brew tap homebrew/dupes
 brew tap homebrew/php
