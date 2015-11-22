@@ -6,6 +6,11 @@ sudo -v
 # Install command line tools
 xcode-select --install
 
+# Setup dotfiles
+git clone http://github.com/dmyers/dotfiles ~/.dotfiles
+cp -rf ~/.dotfiles/.* ~/
+rm -rf ~/.dotfiles
+
 # Install Brew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
