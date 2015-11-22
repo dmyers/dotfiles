@@ -65,6 +65,8 @@ brew install composer
 brew install git
 brew install sqlite
 brew install mysql
+brew install rethinkdb
+brew install influxdb chronograf
 brew install gd
 brew install mcrypt
 brew install php55
