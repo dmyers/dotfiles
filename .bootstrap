@@ -33,8 +33,5 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 # Install NPM packages
 .npm
 
-# Setup Cask
-.cask
-
 # Install Vagrant plugins
 .vagrant
