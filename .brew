@@ -45,6 +45,7 @@ brew install fail2ban
 brew install icdiff
 brew install archey
 brew install gifify
+brew install tor
 
 # Install image optimizers
 brew install advancecomp gifsicle jhead jpegoptim jpeg optipng pngcrush
