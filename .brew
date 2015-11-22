@@ -80,7 +80,7 @@ brew install wrk
 brew install mitmproxy
 
 # Install AWS tools
-brew install awscli aws-elasticbeanstalk rds-command-line-tools
+brew install awscli aws-elasticbeanstalk
 
 # Install CLI completions
 brew install bash-completion2
