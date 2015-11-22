@@ -78,6 +78,7 @@ brew install vegeta
 brew install docker
 brew install wrk
 brew install mitmproxy
+brew install heroku-toolbelt
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
