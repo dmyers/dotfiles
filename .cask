@@ -4,7 +4,6 @@ brew cask install appcleaner
 brew cask install atom
 brew cask install caffiene
 brew cask install cakebrew
-brew cask install colloquy
 brew cask install dropbox
 brew cask install dockertoolbox
 brew cask install evernote
@@ -22,6 +21,7 @@ brew cask install istumbler
 brew cask install java
 brew cask install jewelrybox
 brew cask install kitematic
+brew cask install komanda
 brew cask install mou
 brew cask install pusher
 brew cask install sequel-pro
