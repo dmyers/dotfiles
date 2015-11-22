@@ -73,7 +73,7 @@ brew install elasticsearch
 brew install gd
 brew install mcrypt
 brew install php55
-brew install php55-geoip php55-mcrypt php55-xdebug php55-imagick php55-gmagick
+brew install php55-geoip php55-mcrypt php55-xdebug php55-imagick php55-gmagick php55-pdo-dblib php55-tidy
 brew install hub
 brew install jq
 brew install gitsh
