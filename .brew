@@ -80,7 +80,7 @@ brew install gitsh
 brew install ievms
 brew install geoip
 brew install vegeta
-brew install docker
+brew install docker docker-machine
 brew install wrk
 brew install mitmproxy
 brew install heroku-toolbelt
@@ -91,7 +91,6 @@ brew install awscli aws-elasticbeanstalk
 # Install CLI completions
 brew install bash-completion2
 brew install grunt-completion
-brew install docker-completion docker-machine-completion
 brew install vagrant-completion
 brew install wpcli-completion
 
