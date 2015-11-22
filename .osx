@@ -2,10 +2,6 @@
 
 # ~/.osx — http://mths.be/osx
 
-###############################################################################
-# General UI/UX                                                               #
-###############################################################################
-
 # Turn off gatekeeper
 sudo spctl --master-disable
 
@@ -39,10 +35,6 @@ defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
 # Disable the “Reopen windows when logging back in” checkbox in dialog
 defaults write com.apple.loginwindow LoginwindowLaunchesRelaunchApps -bool false
 
-###############################################################################
-# Trackpad, mouse, keyboard, Bluetooth accessories, and input                 #
-###############################################################################
-
 # Enable full keyboard access for all controls
 # (e.g. enable Tab in modal dialogs)
 defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
@@ -57,10 +49,7 @@ defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 .app/.transmission
 .app/.terminal
 
-###############################################################################
-# Kill affected applications                                                  #
-###############################################################################
-
+# Kill affected applications
 for app in "Dock" "Finder" "Terminal" "Transmission"; do
   killall "$app" > /dev/null 2>&1
 done
