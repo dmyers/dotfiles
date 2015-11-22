@@ -9,8 +9,10 @@ xcode-select --install
 # Setup dotfiles
 curl -Lo dotfiles.tar.gz https://github.com/dmyers/dotfiles/archive/master.tar.gz
 tar -zxvf dotfiles.tar.gz
-cp -rf dotfiles-master/.* ~/
-rm -rf dotfiles-master
+cd dotfiles-master
+for file in {aliases,bash_profile,bash_prompt,bashrc,exports,functions,gemrc,gitconfig,hushlogin,inputrc,irbrc,path,pryrc,rspec,wgetrc}; do
+  cp -f ."$file" ~/."$file"
+done
 
 # Create user bin folder
 mkdir ~/bin
@@ -35,3 +37,5 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 # Install Vagrant plugins
 ./.vagrant
+
+rm -rf dotfiles-master
