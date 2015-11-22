@@ -6,6 +6,13 @@ brew update
 # Upgrade any already-installed formulae
 brew upgrade
 
+# Tap
+brew tap homebrew/completions
+brew tap homebrew/dupes
+brew tap homebrew/php
+brew tap thoughtbot/formulae
+brew tap neonichu/formulae
+
 # Install GNU core utilities (those that come with OS X are outdated)
 brew install coreutils
 
@@ -14,130 +21,61 @@ brew install findutils
 
 # Install Bash 4
 brew install bash
-
-# Install Bash completion
 brew install bash-completion
 
-# Install Bash completions
-brew tap homebrew/completions
-brew install vagrant-completion
-
 # Install more recent versions of some OS X tools
-brew tap homebrew/dupes
 brew install homebrew/dupes/grep
+
+# Install Cask to manage apps
+brew install caskroom/cask/brew-cask
 
 # Install other useful binaries
 brew install wget
 brew install grc
-brew install ssh-copy-id
 brew install man2html
 brew install libiconv
 brew install nmap
-
-# Install httpie
 brew install httpie
-
-# Install MySQL
-brew install mysql
-
-# Install gd
-brew install gd
-
-# Install mcrypt
-brew install mcrypt
-
-# Install PHP
-brew tap homebrew/php
-brew install php55
-
-# Install PHP extensions
-brew install php55-geoip php55-mcrypt php55-xdebug php55-imagick php55-gmagick
-
-# Install Composer
-brew install composer
-
-# Install Node
-brew install node
-
-# Install Python
-brew install python
-
-# Install Git
-brew install git
-
-# Install hub
-brew install hub
-
-# Install jq
-brew install jq
-
-# Install AWS tools
-brew install awscli aws-elasticbeanstalk rds-command-line-tools
-
-# Install Sqlite
-brew installl sqlite
-
-# Install gitsh
-brew tap thoughtbot/formulae
-brew install gitsh
+brew install tree
+brew install pstree
+brew install htop-osx
+brew install spoof-mac
+brew install fail2ban
+brew install icdiff
+brew install archey
+brew install gifify
 
 # Install image optimizers
 brew install advancecomp gifsicle jhead jpegoptim jpeg optipng pngcrush
 
-# Install archey
-brew install archey
-
-# Install tree
-brew install tree
-
-# Install pstree
-brew install pstree
-
-# Install htop
-brew install htop-osx
-
-# Install sshrc
+# Install SSH tools
+brew install ssh-copy-id
+brew install stormssh
+brew install sshuttle
 brew install sshrc
 
-# Install geoip
-brew install geoip
-
-# Install ievms
-brew install ievms
-
-# Install docker
-brew install docker
-
-# Install cask
-brew install caskroom/cask/brew-cask
-
-# Install icdiff
-brew install icdiff
-
-# Install gifify
-brew install gifify
-
-# Install vegeta
-brew install vegeta
-
-# Install fail2ban
-brew install fail2ban
-
-# Install chswift
-brew tap neonichu/formulae
+# Install dev tools
+brew install node
+brew install python
 brew install chswift
-
-# Install wrk
+brew install composer
+brew install git
+brew install sqlite
+brew install mysql
+brew install gd
+brew install mcrypt
+brew install php55
+brew install php55-geoip php55-mcrypt php55-xdebug php55-imagick php55-gmagick
+brew install hub
+brew install jq
+brew install gitsh
+brew install vagrant-completion
+brew install ievms
+brew install geoip
+brew install vegeta
+brew install docker
 brew install wrk
-
-# Install mitmproxy
 brew install mitmproxy
 
-# Install spoofmac
-brew install spoof-mac
-
-# Install storm
-brew install stormssh
-
-# Install sshuttle
-brew install sshuttle
+# Install AWS tools
+brew install awscli aws-elasticbeanstalk rds-command-line-tools
