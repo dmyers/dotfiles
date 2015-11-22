@@ -40,14 +40,14 @@ defaults write com.apple.loginwindow LoginwindowLaunchesRelaunchApps -bool false
 defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 
 # Setup app preferences
-.app/.activitymonitor
-.app/.dock
-.app/.finder
-.app/.itunes
-.app/.mail
-.app/.timemachine
-.app/.transmission
-.app/.terminal
+./.app/.activitymonitor
+./.app/.dock
+./.app/.finder
+./.app/.itunes
+./.app/.mail
+./.app/.timemachine
+./.app/.transmission
+./.app/.terminal
 
 # Kill affected applications
 for app in "Dock" "Finder" "Terminal" "Transmission"; do

@@ -22,16 +22,16 @@ mkdir ~/bin
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # Setup Brew
-.brew
+./.brew
 
 # Install Composer packages
-.composer
+./.composer
 
 # Install Ruby gems
-.gems
+./.gems
 
 # Install NPM packages
-.npm
+./.npm
 
 # Install Vagrant plugins
-.vagrant
+./.vagrant
