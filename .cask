@@ -37,6 +37,7 @@ brew cask install sourcetree
 brew cask install vagrant vagrant-manager
 brew cask install virtualbox
 brew cask install rdm
+brew cask install cyberduck
 
 # Symlink subl command
 ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
