@@ -138,3 +138,6 @@ brew install spoof-mac
 
 # Install storm
 brew install stormssh
+
+# Install sshuttle
+brew install sshuttle
