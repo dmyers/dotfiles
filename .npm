@@ -1,19 +1,15 @@
 #!/usr/bin/env bash
 
-# Development
-npm install -g requirejs
-
-# Tools
-npm install -g bower
-npm install -g grunt-cli
-npm install -g imageoptim-cli
-npm install -g ios-sim
-npm install -g jshint
-npm install -g localtunnel
-npm install -g node-inspector
-npm install -g nodewebkit
+# Install general libraries
 npm install -g pageres
 npm install -g peerflix
+npm install -g toxy
+npm install -g webtorrent
+npm install -g localtunnel
+npm install -g http-server
+npm install -g hostile
+
+# Install dev tools
 npm install -g api-benchmark
 npm install -g request
 npm install -g underscore
@@ -22,7 +18,11 @@ npm install -g supervisor
 npm install -g nodemon
 npm install -g forever
 npm install -g express-generator
-npm install -g toxy
-npm install -g hostile
-npm install -g http-server
-npm install -g webtorrent
+npm install -g requirejs
+npm install -g bower
+npm install -g grunt-cli
+npm install -g imageoptim-cli
+npm install -g ios-sim
+npm install -g jshint
+npm install -g node-inspector
+npm install -g nodewebkit
