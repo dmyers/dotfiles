@@ -1,2 +1,4 @@
+#!/usr/bin/env bash
+
 # Disable local Time Machine backups
 sudo tmutil disablelocal

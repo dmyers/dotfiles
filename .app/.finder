@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Finder: show all filename extensions
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 

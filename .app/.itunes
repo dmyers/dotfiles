@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Disable the Ping sidebar in iTunes
 defaults write com.apple.iTunes disablePingSidebar -bool true
 
