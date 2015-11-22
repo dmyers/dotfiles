@@ -18,9 +18,6 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 # Setup Brew
 .brew
 
-# Setup Cask
-.cask
-
 # Install RVM
 \curl -L https://get.rvm.io | bash -s stable --ruby
 
@@ -32,6 +29,9 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 # Install NPM packages
 .npm
+
+# Setup Cask
+.cask
 
 # Install Vagrant plugins
 .vagrant
