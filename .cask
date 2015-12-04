@@ -4,6 +4,7 @@
 brew cask install java
 brew cask install adium
 brew cask install appcleaner
+brew cask install audacity
 brew cask install caffiene
 brew cask install dropbox
 brew cask install evernote
