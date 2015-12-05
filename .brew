@@ -86,6 +86,7 @@ brew install wrk
 brew install mitmproxy
 brew install heroku-toolbelt
 brew install tidy-html5
+brew install ctags
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
