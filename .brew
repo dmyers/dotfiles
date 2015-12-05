@@ -33,7 +33,7 @@ brew install homebrew/dupes/openssh
 brew install caskroom/cask/brew-cask
 
 # Install other useful binaries
-brew install wget
+brew install wget curl
 brew install grc
 brew install man2html
 brew install libiconv
