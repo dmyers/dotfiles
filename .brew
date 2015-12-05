@@ -84,6 +84,7 @@ brew install docker docker-machine
 brew install wrk
 brew install mitmproxy
 brew install heroku-toolbelt
+brew install tidy-html5
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
