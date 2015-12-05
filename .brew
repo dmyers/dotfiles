@@ -46,12 +46,12 @@ brew install spoof-mac
 brew install fail2ban
 brew install icdiff
 brew install archey
-brew install gifify
+brew install gifify gifsicle
 brew install tor
 brew install mackup
 
 # Install image optimizers
-brew install advancecomp gifsicle jhead jpegoptim jpeg optipng pngcrush imagemagick
+brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick
 
 # Install SSH tools
 brew install ssh-copy-id
