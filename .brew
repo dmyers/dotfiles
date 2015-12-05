@@ -51,7 +51,7 @@ brew install tor
 brew install mackup
 
 # Install image optimizers
-brew install advancecomp gifsicle jhead jpegoptim jpeg optipng pngcrush
+brew install advancecomp gifsicle jhead jpegoptim jpeg optipng pngcrush imagemagick
 
 # Install SSH tools
 brew install ssh-copy-id
