@@ -48,6 +48,7 @@ brew install icdiff
 brew install archey
 brew install gifify
 brew install tor
+brew install mackup
 
 # Install image optimizers
 brew install advancecomp gifsicle jhead jpegoptim jpeg optipng pngcrush
