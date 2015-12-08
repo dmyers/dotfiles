@@ -26,3 +26,4 @@ npm install -g ios-sim
 npm install -g jshint
 npm install -g node-inspector
 npm install -g nodewebkit
+npm install -g rtail
