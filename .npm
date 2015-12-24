@@ -8,6 +8,7 @@ npm install -g webtorrent
 npm install -g localtunnel
 npm install -g http-server
 npm install -g hostile
+npm install -g tldr
 
 # Install dev tools
 npm install -g api-benchmark
