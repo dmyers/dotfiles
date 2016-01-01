@@ -19,11 +19,11 @@ unset file;
 # Create user bin folder
 mkdir ~/bin
 
-# Install RVM
-\curl -L https://get.rvm.io | bash -s stable --ruby
-
 # Install Homebrew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# Install RVM
+\curl -L https://get.rvm.io | bash -s stable --ruby
 
 # Install Brew packages
 ./.brew
