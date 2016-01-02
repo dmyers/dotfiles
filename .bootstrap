@@ -40,6 +40,9 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 # Install Vagrant plugins
 ./.vagrant
 
+# Symlink subl command
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+
 cd ../;
 rm -rf dotfiles-master;
 
