@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 # Install general apps
-brew cask install java
 brew cask install adium
 brew cask install appcleaner
 brew cask install audacity
