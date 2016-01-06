@@ -26,6 +26,7 @@ brew cask install dockertoolbox
 brew cask install fontprep
 brew cask install gas-mask
 brew cask install imagealpha imageoptim
+brew cask install integrity
 brew cask install iterm2
 brew cask install istumbler
 brew cask install jewelrybox
