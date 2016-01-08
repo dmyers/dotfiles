@@ -67,7 +67,6 @@ brew install sshrc
 brew install node
 brew install python
 brew install chswift
-brew install composer
 brew install git bfg
 brew install sqlite
 brew install mysql
