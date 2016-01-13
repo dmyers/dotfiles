@@ -53,6 +53,7 @@ brew install archey
 brew install gifify gifsicle
 brew install tor
 brew install mackup
+brew install whois
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
