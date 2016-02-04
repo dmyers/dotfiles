@@ -18,11 +18,11 @@ alias update="brew update; brew upgrade; brew cleanup; composer self-update; com
 # Get public IP address
 alias publicip="dig +short myip.opendns.com @resolver1.opendns.com"
 
-# Get local IP address
+# Get local IPv4 address
 alias localip="ipconfig getifaddr en0"
 
 # Get all local IPv4 addresses
-alias ips="ifconfig -a | grep -o 'inet \(\([0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+\)\|[a-fA-F0-9:]\+\)' | sed -e 's/inet* //'"
+alias localips="ifconfig -a | grep -o 'inet \(\([0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+\)\|[a-fA-F0-9:]\+\)' | sed -e 's/inet* //'"
 
 # Flush Directory Service cache
 alias flush="dscacheutil -flushcache && killall -HUP mDNSResponder"
