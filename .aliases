@@ -16,7 +16,7 @@ alias grep='grep --color=auto'
 alias update="brew update; brew upgrade; brew cleanup; composer self-update; composer global update;"
 
 # Get public IP address
-alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
+alias publicip="dig +short myip.opendns.com @resolver1.opendns.com"
 
 # Get local IP address
 alias localip="ipconfig getifaddr en0"
