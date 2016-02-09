@@ -41,3 +41,4 @@ brew cask install virtualbox
 brew cask install rdm
 brew cask install cyberduck
 brew cask install royal-tsx
+brew cask install bitbar
