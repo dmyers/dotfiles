@@ -82,7 +82,7 @@ brew install redis
 brew install elasticsearch
 brew install gd
 brew install mcrypt
-brew install php55 --without-apache
+brew install php55 --without-apache --without-ldap
 brew install php55-geoip php55-mcrypt php55-xdebug php55-imagick php55-gmagick php55-pdo-dblib php55-tidy php55-xmldiff
 brew install hub
 brew install jq
