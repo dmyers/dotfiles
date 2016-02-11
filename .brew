@@ -36,6 +36,10 @@ brew install brew-cask
 # Install Java
 brew cask install java
 
+# Install Oracle instant client
+#brew tap InstantClientTap/instantclient
+#brew install instantclient-basic instantclient-sdk instantclient-sqlplus
+
 # Install other useful binaries
 brew install wget curl
 brew install grc
