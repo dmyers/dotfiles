@@ -28,5 +28,8 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 # shells instead of the default "last window closed" history
 export PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
 
+# Use most pager
+export PAGER="most"
+
 # Set rvmsudo up
 export rvmsudo_secure_path=1
