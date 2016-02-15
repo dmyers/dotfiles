@@ -59,6 +59,7 @@ brew install tor
 brew install mackup
 brew install whois
 brew install iproute2mac
+brew install most
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
