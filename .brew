@@ -62,6 +62,7 @@ brew install iproute2mac
 brew install most
 brew install sysdig
 brew install ccat
+brew install colordiff
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
