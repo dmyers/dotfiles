@@ -48,7 +48,7 @@ brew install libiconv
 brew install nmap
 brew install httpie
 brew install tree
-brew install pstree
+brew install pstree psgrep
 brew install htop-osx
 brew install spoof-mac
 brew install fail2ban
