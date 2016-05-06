@@ -29,3 +29,4 @@ npm install -g node-inspector
 npm install -g nodewebkit
 npm install -g rtail
 npm install -g how2
+npm install -g chalk
