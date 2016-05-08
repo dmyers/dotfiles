@@ -75,6 +75,7 @@ brew install sshuttle
 brew install sshrc
 
 # Install dev tools
+brew install dnsmasq
 brew install node
 brew install python
 brew install chswift
