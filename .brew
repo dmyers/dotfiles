@@ -65,6 +65,7 @@ brew install sysdig
 brew install ccat
 brew install colordiff
 brew install ncdu
+brew install rsync
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
