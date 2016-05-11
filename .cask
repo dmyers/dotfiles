@@ -14,6 +14,7 @@ brew cask install mac2imgur
 brew cask install mou
 brew cask install google-chrome google-drive google-hangouts
 brew cask install hipchat
+brew cask install slack
 brew cask install skype
 brew cask install spotify spotifree
 brew cask install steam
