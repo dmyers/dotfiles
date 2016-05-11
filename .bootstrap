@@ -32,6 +32,12 @@ mv composer.phar ~/bin/composer
 # Install Brew packages
 ./.brew
 
+# Setup Fonts
+./.fonts
+
+# Setup Cask
+#./.cask
+
 # Install Composer packages
 ./.composer
 
