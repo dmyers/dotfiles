@@ -26,7 +26,7 @@ elif [ -f /etc/bash_completion ]; then
 fi;
 
 # Load GRC settings
-source "`brew --prefix grc`/etc/grc.bashrc"
+source "`brew --prefix`/etc/grc.bashrc"
 
 # Add tab completion for AWS commands
 complete -C aws_completer aws
