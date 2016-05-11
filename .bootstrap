@@ -16,6 +16,9 @@ for file in {aliases,bash_profile,bash_prompt,bashrc,exports,functions,gemrc,git
 done;
 unset file;
 
+# Load bash profile
+source ~/.bash_profile;
+
 # Create user bin folder
 mkdir ~/bin
 
@@ -60,6 +63,3 @@ rm -rf dotfiles-master;
 BASHPATH=$(brew --prefix)/bin/bash;
 sudo echo $BASHPATH >> /etc/shells;
 chsh -s $BASHPATH;
-
-# Load bash profile
-source ~/.bash_profile;
