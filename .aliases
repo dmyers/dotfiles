@@ -15,6 +15,9 @@ alias grep='grep --color=auto'
 # Always use color output for `cat`
 alias cat='ccat'
 
+# Improve rsync
+alias rsync='rsync -avh --progress'
+
 # Update installed Homebrew, Composer, and their installed packages
 alias update="brew update; brew upgrade; brew cleanup; composer self-update; composer global update;"
 
