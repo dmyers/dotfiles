@@ -21,6 +21,7 @@ brew cask install steam
 brew cask install transmission
 brew cask install vlc
 brew cask install the-unarchiver
+brew cask install skitch
 
 # Install dev apps
 brew cask install atom
