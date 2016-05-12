@@ -45,3 +45,4 @@ brew cask install cyberduck
 brew cask install royal-tsx
 brew cask install bitbar
 brew cask install psequel
+brew cask install cactus
