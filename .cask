@@ -48,3 +48,4 @@ brew cask install royal-tsx
 brew cask install bitbar
 brew cask install psequel
 brew cask install cactus
+brew cask install wireshark
