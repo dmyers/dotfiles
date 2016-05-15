@@ -15,6 +15,9 @@ alias grep='grep --color=auto'
 # Always use color output for `cat`
 alias cat='ccat'
 
+# Always use color output for `httping`
+alias httping='httping -Y'
+
 # Improve rsync
 alias rsync='rsync -avh --progress'
 
