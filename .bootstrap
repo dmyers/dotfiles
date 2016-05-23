@@ -11,7 +11,7 @@ curl -Lo dotfiles.tar.gz https://github.com/dmyers/dotfiles/archive/master.tar.g
 tar -zxvf dotfiles.tar.gz
 rm -f dotfiles.tar.gz
 cd dotfiles-master
-for file in {aliases,bash_profile,bash_prompt,bashrc,exports,functions,gemrc,gitconfig,hushlogin,inputrc,irbrc,path,pryrc,rspec,wgetrc}; do
+for file in {aliases,bash_profile,bash_prompt,bashrc,curlrc,exports,functions,gemrc,gitconfig,hushlogin,inputrc,irbrc,path,pryrc,rspec,wgetrc}; do
   cp -f ."$file" ~/."$file";
 done;
 unset file;
