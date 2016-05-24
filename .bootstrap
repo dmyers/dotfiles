@@ -56,6 +56,9 @@ mv composer.phar ~/bin/composer
 # Symlink subl command
 ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 
+# Symlink stree command
+ln -s "/Applications/SourceTree.app/Contents/Resources/stree" ~/bin/stree
+
 cd ../;
 rm -rf dotfiles-master;
 
