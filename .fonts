@@ -4,3 +4,4 @@ brew cask install font-hack
 brew cask install font-fira-code
 brew cask install font-yanone-kaffeesatz
 brew cask install font-blokk
+brew cask install font-overpass
