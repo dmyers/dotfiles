@@ -50,6 +50,9 @@ mv composer.phar ~/bin/composer
 # Install NPM packages
 ./.npm
 
+# Install http prompt
+#sudo pip install http-prompt
+
 # Install Vagrant plugins
 ./.vagrant
 
