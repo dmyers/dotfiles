@@ -36,5 +36,5 @@ alias localips="ifconfig -a | grep -o 'inet \(\([0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]
 # Flush Directory Service cache
 alias flush="dscacheutil -flushcache && killall -HUP mDNSResponder"
 
-# Scan the network for devices
+# Scan the local network for devices
 alias netscan="arp-scan --localnet"
