@@ -68,6 +68,7 @@ brew install ncdu
 brew install rsync
 brew install httping
 brew install arp-scan
+brew install cheat
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
