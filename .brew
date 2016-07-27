@@ -109,6 +109,7 @@ brew install heroku-toolbelt
 brew install tidy-html5
 brew install ctags
 brew install no-more-secrets
+brew install gitup
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
