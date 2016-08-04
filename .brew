@@ -18,6 +18,7 @@ brew tap homebrew/services
 brew tap caskroom/versions
 brew tap caskroom/cask
 brew tap caskroom/fonts
+brew tap joshuaclayton/formulae
 
 # Install GNU core utilities (those that come with OS X are outdated)
 brew install coreutils
@@ -109,6 +110,7 @@ brew install mitmproxy
 brew install heroku-toolbelt
 brew install tidy-html5
 brew install ctags
+brew install unused
 brew install no-more-secrets
 brew install gitup
 
