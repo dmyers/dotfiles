@@ -9,6 +9,7 @@ npm install -g localtunnel
 npm install -g http-server
 npm install -g hostile
 npm install -g tldr
+npm install -g gifify
 
 # Install dev tools
 npm install -g api-benchmark
