@@ -96,8 +96,8 @@ brew install redis
 brew install elasticsearch
 brew install gd
 brew install mcrypt
-brew install php55 --without-apache --without-ldap
-brew install php55-geoip php55-mcrypt php55-xdebug php55-imagick php55-gmagick php55-pdo-dblib php55-tidy php55-xmldiff
+brew install php56 --without-apache --without-ldap
+brew install php56-geoip php56-mcrypt php56-xdebug php56-imagick php56-gmagick php56-pdo-dblib php56-tidy php56-xmldiff
 brew install hub
 brew install jq
 brew install gitsh
