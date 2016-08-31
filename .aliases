@@ -22,7 +22,7 @@ alias httping='httping -Y'
 alias rsync='rsync -avh --progress'
 
 # Update installed Homebrew, Composer, and their installed packages
-alias update="brew update; brew upgrade; brew cleanup; composer self-update; composer global update;"
+alias update="brew update; brew upgrade; brew cleanup; brew cask cleanup; composer self-update; composer global update;"
 
 # Get public IP address
 alias publicip="dig +short myip.opendns.com @resolver1.opendns.com"
