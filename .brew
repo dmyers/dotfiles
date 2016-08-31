@@ -114,6 +114,7 @@ brew install ctags
 brew install unused
 brew install no-more-secrets
 brew install gitup
+brew install beanstalkd
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
