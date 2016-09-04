@@ -1,0 +1,3 @@
+phpcs --config-set default_standard PSR2
+phpcs --config-set show_progress 1
+phpcs --config-set colors 1
