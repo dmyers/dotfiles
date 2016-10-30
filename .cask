@@ -16,7 +16,8 @@ brew cask install google-chrome google-drive google-hangouts
 brew cask install hipchat
 brew cask install slack
 brew cask install skype
-brew cask install spotify spotifree
+brew cask install spotify
+#brew cask install spotifree
 brew cask install steam
 brew cask install transmission
 brew cask install vlc
