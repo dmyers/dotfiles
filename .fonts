@@ -6,3 +6,4 @@ brew cask install font-yanone-kaffeesatz
 brew cask install font-blokk
 brew cask install font-overpass
 brew cask install font-fontawesome
+brew cask install font-open-sans font-open-sans-condensed
