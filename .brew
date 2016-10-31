@@ -72,6 +72,7 @@ brew install httping
 brew install arp-scan
 brew install cheat
 brew install ngrok2
+brew install doxygen
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
