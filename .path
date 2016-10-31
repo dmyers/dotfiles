@@ -1,5 +1,6 @@
 # Add brew to PATH
 export PATH="/usr/local/bin:$PATH"
+export PATH="/usr/local/sbin:$PATH"
 
 # Add the coreutils to PATH
 export PATH="$(brew --prefix coreutils)/libexec/gnubin:$PATH"
