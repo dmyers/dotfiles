@@ -16,8 +16,14 @@ for file in {aliases,bash_profile,bash_prompt,bashrc,curlrc,exports,functions,ge
 done;
 unset file;
 
+# Create extra file
+touch ~/.extra
+
 # Load bash profile
-source ~/.bash_profile;
+source ~/.bash_profile
+
+# Load paths
+source ~/.path
 
 # Create user bin folder
 mkdir ~/bin
@@ -33,28 +39,28 @@ mv composer.phar ~/bin/composer
 \curl -L https://get.rvm.io | bash -s stable --ruby
 
 # Install Brew packages
-./.brew
+source .brew
 
-# Setup Fonts
-./.fonts
+# Install Font packages
+source .fonts
 
-# Setup Cask
-#./.cask
+# Install Cask packages
+#source .cask
 
 # Install Composer packages
-./.composer
+source .composer
 
 # Install Ruby gems
-./.gems
+#source .gems
 
 # Install NPM packages
-./.npm
+#source .npm
 
 # Install http prompt
 #sudo pip install http-prompt
 
 # Install Vagrant plugins
-./.vagrant
+source .vagrant
 
 # Symlink subl command
 ln -s "/Applications/Sublime Text 3.app/Contents/SharedSupport/bin/subl" ~/bin/subl
@@ -62,8 +68,8 @@ ln -s "/Applications/Sublime Text 3.app/Contents/SharedSupport/bin/subl" ~/bin/s
 # Symlink stree command
 ln -s "/Applications/SourceTree.app/Contents/Resources/stree" ~/bin/stree
 
-cd ../;
-rm -rf dotfiles-master;
+cd ../
+rm -rf dotfiles-master
 
 # Switch shell to Bash 4
 BASHPATH=$(brew --prefix)/bin/bash;
