@@ -54,4 +54,4 @@ brew cask install bitbar
 brew cask install psequel
 #brew cask install cactus
 #brew cask install wireshark
-brew cask install datagrip
+#brew cask install datagrip
