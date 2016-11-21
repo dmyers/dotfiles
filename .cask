@@ -5,7 +5,7 @@ brew cask install adium
 brew cask install appcleaner
 brew cask install audacity
 brew cask install caffiene
-brew cask install dropbox
+#brew cask install dropbox
 brew cask install firefox
 brew cask install flux
 brew cask install komanda
