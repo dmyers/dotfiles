@@ -3,6 +3,9 @@
 # Ask for the administrator password upfront
 sudo -v
 
+# Disable gatekeeper
+sudo spctl --master-disable
+
 # Install command line tools
 xcode-select --install
 
