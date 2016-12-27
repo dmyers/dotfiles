@@ -18,6 +18,9 @@ shopt -s histappend
 # Autocorrect typos in path names when using `cd`
 shopt -s cdspell
 
+# Auto change current directory
+shopt -s autocd
+
 # Add tab completion for many Bash commands
 if which brew > /dev/null && [ -f "$(brew --prefix)/share/bash-completion/bash_completion" ]; then
 	source "$(brew --prefix)/share/bash-completion/bash_completion";
