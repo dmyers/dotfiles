@@ -100,7 +100,8 @@ brew install elasticsearch
 brew install gd
 brew install mcrypt
 brew install php56 --without-apache --without-ldap
-brew install php56-geoip php56-mcrypt php56-xdebug php56-imagick php56-gmagick php56-pdo-dblib php56-tidy php56-xmldiff
+brew install php56-mcrypt php56-xdebug php56-imagick php56-gmagick php56-pdo-dblib php56-tidy php56-xmldiff
+#brew install php56-geoip
 brew install hub
 brew install jq
 brew install gitsh
