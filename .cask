@@ -53,6 +53,7 @@ brew cask install cyberduck
 brew cask install royal-tsx
 brew cask install bitbar
 brew cask install psequel
+brew cask install hyper
 #brew cask install cactus
 #brew cask install wireshark
 #brew cask install datagrip
