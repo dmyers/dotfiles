@@ -35,3 +35,4 @@ npm install -g chalk
 npm install -g less
 npm install -g node-sass
 npm install -g lighthouse
+npm install -g hpm-cli
