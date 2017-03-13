@@ -48,7 +48,6 @@ brew cask install sublime-text
 brew cask install sourcetree
 brew cask install vagrant vagrant-manager
 brew cask install virtualbox
-brew cask install rdm
 brew cask install medis
 brew cask install cyberduck
 brew cask install royal-tsx
