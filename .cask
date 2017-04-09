@@ -61,3 +61,4 @@ brew cask install ngrok
 brew cask install gitify
 brew cask install screenhero
 brew cask install harvest
+brew cask install avocode
