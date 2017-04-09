@@ -59,3 +59,5 @@ brew cask install ngrok
 #brew cask install wireshark
 #brew cask install datagrip
 brew cask install gitify
+brew cask install screenhero
+brew cask install harvest
