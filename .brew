@@ -108,7 +108,7 @@ brew install gitsh
 brew install ievms
 brew install geoip
 brew install vegeta
-brew install docker docker-machine
+brew install docker docker-machine docker-compose
 brew install wrk
 brew install mitmproxy
 brew install heroku-toolbelt
@@ -127,6 +127,7 @@ brew install bash-completion2
 brew install grunt-completion
 brew install vagrant-completion
 brew install wpcli-completion
+brew install docker-compose-completion
 
 # Remove outdated versions from the cellar
 brew cleanup
