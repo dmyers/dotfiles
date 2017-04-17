@@ -27,6 +27,7 @@ brew cask install typora
 brew cask install unrarx
 brew cask install carbon-copy-cloner
 brew cask install discord
+brew cask install whatsapp
 
 # Install dev apps
 brew cask install atom
