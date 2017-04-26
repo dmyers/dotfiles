@@ -118,6 +118,7 @@ brew install unused
 brew install no-more-secrets
 brew install gitup
 brew install beanstalkd
+brew install kibana
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
