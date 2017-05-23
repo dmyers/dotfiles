@@ -65,3 +65,4 @@ brew cask install screenhero
 brew cask install harvest
 brew cask install avocode
 brew cask install docker
+brew cask install nucleo
