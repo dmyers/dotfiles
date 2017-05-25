@@ -29,6 +29,7 @@ brew cask install carbon-copy-cloner
 brew cask install discord
 brew cask install whatsapp
 brew cask install kodi
+brew cask install sketch
 
 # Install dev apps
 brew cask install atom
