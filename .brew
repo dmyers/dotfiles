@@ -119,6 +119,7 @@ brew install no-more-secrets
 brew install gitup
 brew install beanstalkd
 brew install kibana
+brew install wp-cli
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
