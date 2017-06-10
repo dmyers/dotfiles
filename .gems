@@ -8,6 +8,7 @@ gem install capistrano
 gem install smusher
 gem install spotify-to-mp3
 gem install lunchy
+gem install wayback_machine_downloader
 
 # Install dev tools
 gem install awesome_print
