@@ -11,6 +11,7 @@ npm install -g http-server
 npm install -g hostile
 npm install -g tldr
 npm install -g gifify
+npm install -g chrome-remote-interface
 
 # Install dev tools
 npm install -g api-benchmark
