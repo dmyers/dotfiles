@@ -71,3 +71,4 @@ brew cask install avocode
 brew cask install docker
 brew cask install nucleo
 brew cask install postman
+brew cask install hopper-disassembler
