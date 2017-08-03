@@ -121,6 +121,8 @@ brew install beanstalkd
 brew install kibana
 brew install wp-cli
 brew install apktool
+brew install dex2jar
+brew install procyon-decompiler
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
