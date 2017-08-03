@@ -120,6 +120,7 @@ brew install gitup
 brew install beanstalkd
 brew install kibana
 brew install wp-cli
+brew install apktool
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
