@@ -32,6 +32,7 @@ brew cask install kodi
 brew cask install sketch
 brew cask install diffmerge
 brew cask install meld
+#brew cask install sage
 
 # Install dev apps
 brew cask install atom
