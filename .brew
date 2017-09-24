@@ -124,6 +124,7 @@ brew install apktool
 brew install dex2jar
 brew install procyon-decompiler
 brew install asciinema
+brew install ghostscript
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
