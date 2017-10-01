@@ -126,6 +126,7 @@ brew install procyon-decompiler
 brew install asciinema
 brew install ghostscript
 brew install rclone
+brew install mailhog
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
