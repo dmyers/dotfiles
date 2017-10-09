@@ -74,6 +74,7 @@ brew install cheat
 brew install ngrok2
 brew install doxygen
 brew install mas
+brew install terminal-notifier
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
