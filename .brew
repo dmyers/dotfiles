@@ -33,9 +33,6 @@ brew install bash
 brew install homebrew/dupes/grep
 brew install homebrew/dupes/openssh
 
-# Install Cask to manage apps
-brew install brew-cask
-
 # Install Java
 brew cask install java
 
