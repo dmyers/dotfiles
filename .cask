@@ -33,6 +33,7 @@ brew cask install sketch
 brew cask install diffmerge
 brew cask install meld
 #brew cask install sage
+brew cask install fanny
 
 # Install dev apps
 brew cask install atom
