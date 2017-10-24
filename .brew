@@ -30,8 +30,8 @@ brew install findutils
 brew install bash
 
 # Install more recent versions of some OSX tools
-brew install homebrew/dupes/grep
-brew install homebrew/dupes/openssh
+brew install grep --with-default-names
+brew install openssh
 
 # Install Java
 brew cask install java
