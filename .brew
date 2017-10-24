@@ -7,7 +7,6 @@ brew update
 brew upgrade -all
 
 # Tap more package sources
-brew tap homebrew/completions
 brew tap homebrew/php
 brew tap thoughtbot/formulae
 brew tap neonichu/formulae
