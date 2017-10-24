@@ -67,7 +67,6 @@ brew install rsync
 brew install httping
 brew install arp-scan
 brew install cheat
-brew install ngrok2
 brew install doxygen
 brew install mas
 brew install terminal-notifier
