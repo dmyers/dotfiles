@@ -90,7 +90,7 @@ brew install git bfg
 brew install sqlite
 brew install mysql
 brew install mongodb
-brew install influxdb chronograf
+brew install influxdb
 brew install dynamodb-local
 brew install redis
 brew install elasticsearch
