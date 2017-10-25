@@ -132,6 +132,7 @@ brew install grunt-completion
 brew install vagrant-completion
 brew install wpcli-completion
 brew install docker-compose-completion
+brew install ruby-completion
 
 # Remove outdated versions from the cellar
 brew cleanup
