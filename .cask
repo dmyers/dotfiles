@@ -4,6 +4,7 @@
 brew cask install logitech-options
 
 # Install general apps
+brew cask install arq
 brew cask install adium
 brew cask install appcleaner
 brew cask install audacity
