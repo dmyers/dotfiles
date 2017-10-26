@@ -7,14 +7,15 @@ brew update
 brew upgrade -all
 
 # Tap more package sources
+brew tap caskroom/versions
+brew tap caskroom/cask
+brew tap caskroom/fonts
+brew tap caskroom/drivers
 brew tap homebrew/php
 brew tap thoughtbot/formulae
 brew tap neonichu/formulae
 brew tap homebrew/versions
 brew tap homebrew/services
-brew tap caskroom/versions
-brew tap caskroom/cask
-brew tap caskroom/fonts
 brew tap joshuaclayton/formulae
 
 # Install GNU core utilities (those that come with OS X are outdated)
