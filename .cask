@@ -11,7 +11,7 @@ brew cask install audacity
 brew cask install caffeine
 #brew cask install dropbox
 brew cask install firefox
-#brew cask install flux
+brew cask install flux
 brew cask install komanda
 brew cask install mac2imgur
 #brew cask install mou
