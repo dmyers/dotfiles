@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Install drivers
-brew cask install logitech-options
+#brew cask install logitech-options
 
 # Install general apps
 brew cask install arq
