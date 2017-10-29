@@ -70,6 +70,7 @@ brew install doxygen
 brew install mas
 brew install terminal-notifier
 brew install speedtest-cli
+brew install progress
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
