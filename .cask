@@ -29,7 +29,7 @@ brew cask install the-unarchiver
 brew cask install skitch
 brew cask install typora
 brew cask install unrarx
-brew cask install carbon-copy-cloner
+brew cask install carbon-copy-cloner superduper
 brew cask install discord
 brew cask install whatsapp
 brew cask install kodi
