@@ -83,3 +83,4 @@ brew cask install postman
 brew cask install hopper-disassembler
 brew cask install upterm
 brew cask install chronograf
+brew cask install rdm
