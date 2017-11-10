@@ -42,6 +42,7 @@ brew cask install zotero
 brew cask install daisydisk
 brew cask install chrome-remote-desktop-host
 brew cask install battle-net
+brew cask install 1password
 
 # Install dev apps
 brew cask install atom
