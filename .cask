@@ -87,3 +87,4 @@ brew cask install hopper-disassembler
 brew cask install upterm
 brew cask install chronograf
 brew cask install rdm
+brew cask install tabula
