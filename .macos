@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# ~/.osx — http://mths.be/osx
+# ~/.macos — https://mths.be/macos
 
 # Turn off gatekeeper
 sudo spctl --master-disable
