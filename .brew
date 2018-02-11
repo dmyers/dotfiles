@@ -85,22 +85,10 @@ brew install sshrc
 # Install dev tools
 brew install dnstwist
 brew install dnsmasq
-brew install node
-brew install python
 brew install chswift
 brew install git bfg
-brew install sqlite
-brew install mysql
-brew install mongodb
-brew install influxdb
-brew install dynamodb-local
-brew install redis
-brew install elasticsearch
 brew install gd
 brew install mcrypt
-brew install php56 --without-apache --without-ldap
-brew install php56-mcrypt php56-xdebug php56-imagick php56-gmagick php56-pdo-dblib php56-tidy php56-xmldiff
-#brew install php56-geoip
 brew install hub
 brew install jq
 brew install gitsh
@@ -127,6 +115,22 @@ brew install ghostscript
 brew install rclone
 brew install mailhog
 brew install poppler
+
+# Install prog langs
+brew install node
+brew install python
+brew install php56 --without-apache --without-ldap
+brew install php56-mcrypt php56-xdebug php56-imagick php56-gmagick php56-pdo-dblib php56-tidy php56-xmldiff
+#brew install php56-geoip
+
+# Install dbs
+brew install mysql
+brew install sqlite
+brew install redis
+brew install elasticsearch
+brew install mongodb
+brew install influxdb
+brew install dynamodb-local
 
 # Install AWS tools
 brew install awscli aws-elasticbeanstalk
