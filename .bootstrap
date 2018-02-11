@@ -66,7 +66,7 @@ source .composer
 source .vagrant
 
 # Symlink subl command
-ln -s "/Applications/Sublime Text 3.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 
 # Symlink stree command
 ln -s "/Applications/SourceTree.app/Contents/Resources/stree" ~/bin/stree
