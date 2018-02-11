@@ -16,7 +16,9 @@ brew cask install komanda
 brew cask install mac2imgur
 #brew cask install mou
 brew cask install macdown
-brew cask install google-chrome google-backup-and-sync google-hangouts
+brew cask install google-chrome
+brew cask install google-backup-and-sync
+#brew cask install google-hangouts
 brew cask install hipchat
 brew cask install slack
 brew cask install skype
