@@ -80,7 +80,7 @@ brew cask install ngrok
 #brew cask install datagrip
 #brew cask install burp-suite
 brew cask install gitify
-brew cask install screenhero
+#brew cask install screenhero
 brew cask install harvest
 brew cask install avocode
 brew cask install docker
