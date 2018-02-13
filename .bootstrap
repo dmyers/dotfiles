@@ -53,6 +53,10 @@ source .fonts
 # Install Composer packages
 source .composer
 
+# Install and setup Valet
+valet install
+valet domain app
+
 # Install Ruby gems
 #source .gems
 
