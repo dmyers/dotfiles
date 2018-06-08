@@ -48,6 +48,7 @@ brew cask install battle-net
 brew cask install 1password
 brew cask install mendeley
 #brew cask install handbrake
+brew cask install outline-manager
 
 # Install dev apps
 brew cask install atom
