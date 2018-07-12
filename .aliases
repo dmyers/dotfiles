@@ -1,5 +1,5 @@
 # Always use color output for `ls`
-alias ls="gls -F --color"
+alias ls="gls --color"
 
 # Always enable colored `grep` output
 alias grep='grep --color=auto'
