@@ -12,7 +12,6 @@ brew tap caskroom/cask
 brew tap caskroom/fonts
 brew tap caskroom/drivers
 brew tap thoughtbot/formulae
-brew tap neonichu/formulae
 brew tap homebrew/versions
 brew tap homebrew/services
 brew tap joshuaclayton/formulae
@@ -85,7 +84,6 @@ brew install sshrc
 # Install dev tools
 brew install dnstwist
 brew install dnsmasq
-brew install chswift
 brew install git bfg
 brew install gd
 brew install mcrypt
