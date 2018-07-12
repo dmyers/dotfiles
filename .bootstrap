@@ -80,5 +80,5 @@ rm -rf dotfiles-master
 
 # Switch shell to Bash 4
 BASHPATH=$(brew --prefix)/bin/bash;
-sudo echo $BASHPATH >> /etc/shells;
+sudo bash -c "echo $BASHPATH >> /etc/shells";
 chsh -s $BASHPATH;
