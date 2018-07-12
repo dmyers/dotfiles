@@ -11,7 +11,6 @@ brew tap caskroom/versions
 brew tap caskroom/cask
 brew tap caskroom/fonts
 brew tap caskroom/drivers
-brew tap homebrew/php
 brew tap thoughtbot/formulae
 brew tap neonichu/formulae
 brew tap homebrew/versions
