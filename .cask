@@ -71,7 +71,6 @@ brew cask install sublime-text
 brew cask install sourcetree
 brew cask install vagrant vagrant-manager
 brew cask install virtualbox
-brew cask install medis
 brew cask install cyberduck
 brew cask install royal-tsx
 brew cask install bitbar
@@ -92,5 +91,6 @@ brew cask install postman
 brew cask install hopper-disassembler
 brew cask install upterm
 brew cask install chronograf
-brew cask install rdm
 brew cask install tabula
+#brew cask install medis
+#brew cask install rdm
