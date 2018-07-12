@@ -113,6 +113,7 @@ brew install ghostscript
 brew install rclone
 brew install mailhog
 brew install poppler
+brew install kylef/formulae/swiftenv
 
 # Install prog langs
 brew install node
