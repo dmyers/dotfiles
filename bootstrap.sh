@@ -64,7 +64,7 @@ valet domain app
 #sudo pip install http-prompt
 
 # Install Vagrant plugins
-source .vagrant
+source vagrant.sh
 
 # Symlink subl command
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
