@@ -130,7 +130,7 @@ brew install php70-mcrypt php70-xdebug php70-imagick php70-gmagick php70-pdo-dbl
 #brew install php70-geoip
 
 # Install dbs
-brew install mysql
+brew install mysql@5.7
 brew install sqlite
 brew install redis
 brew install elasticsearch
