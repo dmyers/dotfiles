@@ -44,9 +44,6 @@ mv composer.phar ~/bin/composer
 # Install Brew packages
 source .brew
 
-# Install Font packages
-source .fonts
-
 # Install Cask packages
 #source .cask
 
