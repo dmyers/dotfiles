@@ -1,6 +1,6 @@
 # Dotfiles
 
-My personal setup with Unix dotfile preferences and Mac OSX setup scripts.
+My personal setup with Unix dotfile preferences and MacOS setup scripts.
 
 ![Terminal screenshot](https://raw.github.com/dmyers/dotfiles/master/screenshot.png)
 
