@@ -50,7 +50,6 @@ brew install grc
 brew install tmux
 brew install man2html
 brew install libiconv
-brew install nmap
 brew install httpie
 brew install tree
 brew install pstree psgrep
@@ -93,7 +92,7 @@ brew install sshrc
 # Install dev tools
 brew install dnstwist
 brew install dnsmasq
-brew install git bfg
+brew install git
 brew install gd
 brew install mcrypt
 brew install hub
@@ -123,6 +122,11 @@ brew install rclone
 brew install mailhog
 brew install poppler
 brew install kylef/formulae/swiftenv
+
+# Install some CTF tools; see https://github.com/ctfs/write-ups.
+brew install aircrack-ng
+brew install nmap
+brew install bfg
 
 # Install prog langs
 brew install node
