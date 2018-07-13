@@ -58,7 +58,7 @@ valet domain app
 #source gems.sh
 
 # Install NPM packages
-#source .npm
+#source npm.sh
 
 # Install http prompt
 #sudo pip install http-prompt
