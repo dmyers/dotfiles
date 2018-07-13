@@ -79,6 +79,6 @@ cd ../
 rm -rf dotfiles-master
 
 # Switch shell to Bash 4
-BASHPATH=$(brew --prefix)/bin/bash;
-sudo bash -c "echo $BASHPATH >> /etc/shells";
-chsh -s $BASHPATH;
+BASHPATH=$(brew --prefix)/bin/bash
+echo $BASHPATH | sudo tee -a /etc/shells
+chsh -s $BASHPATH
