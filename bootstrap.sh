@@ -48,7 +48,7 @@ source brew.sh
 #source cask.sh
 
 # Install Composer packages
-source .composer
+source composer.sh
 
 # Install and setup Valet
 valet install
