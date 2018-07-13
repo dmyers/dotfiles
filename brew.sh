@@ -93,6 +93,7 @@ brew install sshrc
 brew install dnstwist
 brew install dnsmasq
 brew install git
+brew install git-lfs
 brew install gd
 brew install mcrypt
 brew install hub
@@ -129,6 +130,11 @@ brew install nmap
 brew install bfg
 brew install binwalk
 brew install socat
+brew install fcrackzip
+brew install john
+brew install hydra
+brew install knock
+brew install hashpump
 
 # Install prog langs
 brew install node
