@@ -42,7 +42,7 @@ mv composer.phar ~/bin/composer
 \curl -L https://get.rvm.io | bash -s stable --ruby
 
 # Install Brew packages
-source .brew
+source brew.sh
 
 # Install Cask packages
 #source .cask
