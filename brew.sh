@@ -127,6 +127,8 @@ brew install kylef/formulae/swiftenv
 brew install aircrack-ng
 brew install nmap
 brew install bfg
+brew install binwalk
+brew install socat
 
 # Install prog langs
 brew install node
