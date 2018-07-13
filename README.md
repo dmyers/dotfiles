@@ -9,5 +9,5 @@ The terminal theme is [Solarized](http://ethanschoonover.com/solarized).
 ## Setup
 
 ```bash
-\curl -L https://raw.github.com/dmyers/dotfiles/master/.bootstrap | bash
+\curl -L https://raw.github.com/dmyers/dotfiles/master/bootstrap.sh | bash
 ```
