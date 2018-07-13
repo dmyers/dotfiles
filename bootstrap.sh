@@ -67,7 +67,7 @@ valet domain app
 source vagrant.sh
 
 # Install Mac App Store apps
-source .mas
+source mas.sh
 
 # Symlink subl command
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
