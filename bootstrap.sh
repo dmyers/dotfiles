@@ -45,7 +45,7 @@ mv composer.phar ~/bin/composer
 source brew.sh
 
 # Install Cask packages
-#source .cask
+#source cask.sh
 
 # Install Composer packages
 source .composer
