@@ -55,7 +55,7 @@ valet install
 valet domain app
 
 # Install Ruby gems
-#source .gems
+#source gems.sh
 
 # Install NPM packages
 #source .npm
