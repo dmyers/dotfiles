@@ -6,7 +6,8 @@ export PATH="/usr/local/sbin:$PATH"
 export PATH="$(brew --prefix coreutils)/libexec/gnubin:$PATH"
 
 # Add PHP to path
-export PATH="$(brew --prefix php55)/bin:$PATH"
+export PATH="$(brew --prefix php70)/bin:$PATH"
+export PATH="$(brew --prefix php70)/sbin:$PATH"
 
 # Add composer to path
 export PATH="$HOME/.composer/vendor/bin:$PATH"
