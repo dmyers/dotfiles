@@ -79,6 +79,7 @@ brew install speedtest-cli
 brew install progress
 brew install visionmedia-watch
 brew install wifi-password
+brew install fio
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
