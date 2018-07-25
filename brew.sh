@@ -85,6 +85,7 @@ brew install fio
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
 
 # Install SSH tools
+brew install autossh
 brew install ssh-copy-id
 brew install stormssh
 brew install sshuttle
