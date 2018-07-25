@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Xcode
 mas install 497799835
 
