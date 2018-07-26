@@ -28,7 +28,6 @@ brew cask install macdown
 brew cask install google-chrome
 brew cask install google-backup-and-sync
 #brew cask install google-hangouts
-brew cask install hipchat
 brew cask install slack
 brew cask install skype
 brew cask install spotify
