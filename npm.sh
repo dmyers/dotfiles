@@ -24,7 +24,7 @@ npm install -g nodemon
 npm install -g forever
 npm install -g express-generator
 npm install -g requirejs
-npm install -g bower
+#npm install -g bower
 npm install -g grunt-cli
 npm install -g imageoptim-cli
 npm install -g ios-sim
