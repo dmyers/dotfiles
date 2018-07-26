@@ -58,6 +58,7 @@ brew cask install 1password
 brew cask install mendeley
 #brew cask install handbrake
 brew cask install outline-manager
+brew cask install alfred
 
 # Install dev apps
 brew cask install chrome-devtools
