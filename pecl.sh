@@ -3,3 +3,4 @@
 pecl install ast
 pecl install mcrypt
 pecl install xdebug
+pecl install tidy
