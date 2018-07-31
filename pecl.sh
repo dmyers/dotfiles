@@ -2,3 +2,4 @@
 
 pecl install ast
 pecl install mcrypt
+pecl install xdebug
