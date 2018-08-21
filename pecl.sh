@@ -2,10 +2,10 @@
 
 pear update-channels
 
-pecl install ast
-pecl install mcrypt
-pecl install xdebug
-pecl install tidy
-pecl install xmldiff
-pecl install imagick
-pecl install gmagick
+pecl install --force ast
+pecl install --force mcrypt
+pecl install --force xdebug
+pecl install --force tidy
+pecl install --force xmldiff
+pecl install --force imagick
+pecl install --force gmagick
