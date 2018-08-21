@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+pear update-channels
+
 pecl install ast
 pecl install mcrypt
 pecl install xdebug
