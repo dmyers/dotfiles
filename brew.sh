@@ -143,11 +143,12 @@ brew install hashpump
 # Install prog langs
 brew install node
 brew install python
+brew install php@7.1
 #brew install php56 --without-apache --without-ldap
 #brew install php56-mcrypt php56-xdebug php56-imagick php56-gmagick php56-pdo-dblib php56-tidy php56-xmldiff
 #brew install php56-geoip
-brew install php70 --without-ldap
-brew install php70-mcrypt php70-xdebug php70-imagick php70-gmagick php70-pdo-dblib php70-tidy php70-xmldiff
+#brew install php70 --without-ldap
+#brew install php70-mcrypt php70-xdebug php70-imagick php70-gmagick php70-pdo-dblib php70-tidy php70-xmldiff
 #brew install php70-geoip
 
 # Install dbs
