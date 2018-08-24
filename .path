@@ -10,7 +10,7 @@ export PATH="$(brew --prefix php@7.1)/bin:$PATH"
 export PATH="$(brew --prefix php@7.1)/sbin:$PATH"
 
 # Add composer to path
-export PATH="$HOME/.composer/vendor/bin:$PATH"
+export PATH="$PATH:$HOME/.composer/vendor/bin"
 
 # Add RVM to PATH
 export PATH="$PATH:$HOME/.rvm/bin"
