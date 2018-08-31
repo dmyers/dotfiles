@@ -66,6 +66,7 @@ brew install iproute2mac
 brew install most
 brew install sysdig
 brew install ccat
+brew install bat
 brew install colordiff
 brew install ncdu
 brew install rsync
