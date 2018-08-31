@@ -1,13 +1,16 @@
 [user]
-  name = Derek Myers
-  email = arcticpro@gmail.com
-  
+	name = Derek Myers
+	email = arcticpro@gmail.com
+
 [color]
-  ui = auto
-  
+	ui = auto
+
 [core]
-  editor = subl -w
-  pager = cat
-  
+	editor = subl -w
+	pager = cat
+
+[log]
+	date = local
+
 [help]
-  autocorrect = 1
+	autocorrect = 1
