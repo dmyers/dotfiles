@@ -47,6 +47,7 @@ brew cask install java
 # Install other useful binaries
 brew install wget curl
 brew install grc
+brew install telnet
 brew install tmux
 brew install man2html
 brew install libiconv
