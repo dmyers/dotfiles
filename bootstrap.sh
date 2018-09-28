@@ -70,10 +70,10 @@ source vagrant.sh
 source mas.sh
 
 # Symlink subl command
-ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+#ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 
 # Symlink stree command
-ln -s "/Applications/SourceTree.app/Contents/Resources/stree" ~/bin/stree
+#ln -s "/Applications/SourceTree.app/Contents/Resources/stree" ~/bin/stree
 
 cd ../
 rm -rf dotfiles-master
