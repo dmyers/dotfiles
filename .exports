@@ -1,4 +1,5 @@
 # Make Sublime Text default editor
+export VISUAL='subl -w'
 export EDITOR='subl -w'
 
 # Larger bash history (allow 32³ entries; default is 500)
