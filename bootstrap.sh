@@ -35,8 +35,8 @@ mkdir ~/bin
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # Install Composer
-curl -sS https://getcomposer.org/installer | php
-mv composer.phar ~/bin/composer
+#curl -sS https://getcomposer.org/installer | php
+#mv composer.phar ~/bin/composer
 
 # Install RVM
 \curl -L https://get.rvm.io | bash -s stable --ruby
