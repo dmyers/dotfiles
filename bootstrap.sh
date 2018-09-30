@@ -60,8 +60,8 @@ valet domain app
 # Install NPM packages
 #source npm.sh
 
-# Install http prompt
-#sudo pip install http-prompt
+# Install Python packages
+#source pip.sh
 
 # Install Vagrant plugins
 source vagrant.sh
