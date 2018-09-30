@@ -129,6 +129,7 @@ brew install mailhog
 brew install poppler
 brew install kylef/formulae/swiftenv
 brew install kubectl
+brew install dehydrated
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
