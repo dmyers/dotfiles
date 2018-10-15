@@ -45,6 +45,7 @@ brew cask install java
 #brew install instantclient-basic instantclient-sdk instantclient-sqlplus
 
 # Install other useful binaries
+brew install fd
 brew install wget curl
 brew install grc
 brew install telnet
