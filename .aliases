@@ -16,6 +16,9 @@ alias ping='prettyping --nolegend'
 # Use htop for top
 alias top="sudo htop"
 
+# Use tldr for help
+alias help='tldr'
+
 # Use ncdu for du
 alias du="ncdu --color dark -rr -x --exclude .git --exclude node_modules --exclude vendor"
 
