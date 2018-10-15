@@ -83,6 +83,7 @@ brew install visionmedia-watch
 brew install wifi-password
 brew install fio
 brew install pv
+brew install prettyping
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
