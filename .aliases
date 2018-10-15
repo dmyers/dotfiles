@@ -16,6 +16,9 @@ alias ping='prettyping --nolegend'
 # Use htop for top
 alias top="sudo htop"
 
+# Use ncdu for du
+alias du="ncdu --color dark -rr -x --exclude .git --exclude node_modules"
+
 # Always use color output for `httping`
 alias httping='httping -Y'
 
