@@ -10,6 +10,9 @@ alias grep='grep --color=auto'
 # Always use color output for `cat`
 alias cat='ccat'
 
+# Use prettyping for ping
+alias ping='prettyping --nolegend'
+
 # Always use color output for `httping`
 alias httping='httping -Y'
 
