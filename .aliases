@@ -13,6 +13,9 @@ alias cat='ccat'
 # Use prettyping for ping
 alias ping='prettyping --nolegend'
 
+# Use htop for top
+alias top="sudo htop"
+
 # Always use color output for `httping`
 alias httping='httping -Y'
 
