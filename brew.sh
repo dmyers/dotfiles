@@ -156,6 +156,7 @@ brew link php@7.1 --force
 #brew install php70 --without-ldap
 #brew install php70-mcrypt php70-xdebug php70-imagick php70-gmagick php70-pdo-dblib php70-tidy php70-xmldiff
 #brew install php70-geoip
+brew install php-cs-fixer
 
 # Install dbs
 brew install mysql@5.7
