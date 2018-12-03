@@ -4,8 +4,8 @@ alias ls="gls --color"
 # Add long list format for `ls`
 alias ll="gls -l --color"
 
-# Always enable colored `grep` output
-alias grep='grep --color=auto'
+# Always enable colored `grep` output with line numbers
+alias grep='grep -n --color=auto'
 
 # Always use color output for `cat`
 alias cat='ccat'
