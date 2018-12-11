@@ -53,11 +53,11 @@ brew cask install fanny
 brew cask install daisydisk
 brew cask install chrome-remote-desktop-host
 brew cask install battle-net
-brew cask install 1password
+#brew cask install 1password
 brew cask install mendeley
 #brew cask install handbrake
 brew cask install outline-manager
-brew cask install alfred
+#brew cask install alfred
 
 # Install dev apps
 brew cask install chrome-devtools
@@ -74,8 +74,8 @@ brew cask install istumbler
 brew cask install jewelrybox
 brew cask install kitematic
 brew cask install pusher
-#brew cask install sequel-pro
-brew cask install sequel-pro-nightly
+brew cask install sequel-pro
+#brew cask install sequel-pro-nightly
 brew cask install shuttle
 brew cask install sublime-text
 brew cask install sourcetree
