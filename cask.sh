@@ -49,7 +49,7 @@ brew cask install diffmerge
 brew cask install meld
 #brew cask install sage
 brew cask install fanny
-brew cask install zotero
+#brew cask install zotero
 brew cask install daisydisk
 brew cask install chrome-remote-desktop-host
 brew cask install battle-net
