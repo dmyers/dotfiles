@@ -104,3 +104,4 @@ brew cask install chronograf
 brew cask install tabula
 #brew cask install medis
 #brew cask install rdm
+brew install tableplus
