@@ -31,7 +31,7 @@ brew cask install google-backup-and-sync
 brew cask install slack
 brew cask install skype
 brew cask install spotify
-brew cask install microsoft-office
+#brew cask install microsoft-office
 #brew cask install spotifree
 brew cask install steam
 brew cask install transmission
