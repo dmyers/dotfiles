@@ -12,7 +12,7 @@ brew tap caskroom/cask
 brew tap caskroom/fonts
 brew tap caskroom/drivers
 brew tap thoughtbot/formulae
-brew tap homebrew/versions
+#brew tap homebrew/versions
 brew tap homebrew/services
 brew tap joshuaclayton/formulae
 
