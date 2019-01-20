@@ -59,6 +59,8 @@ brew cask install mendeley
 #brew cask install handbrake
 brew cask install outline-manager
 #brew cask install alfred
+brew cask install plex-media-server
+brew cask install plex-media-player
 
 # Install dev apps
 brew cask install chrome-devtools
