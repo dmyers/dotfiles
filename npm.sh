@@ -39,3 +39,4 @@ npm install -g node-sass
 npm install -g lighthouse
 npm install -g hpm-cli
 npm install -g electron
+npm install -g @vue/cli
