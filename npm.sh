@@ -40,3 +40,4 @@ npm install -g lighthouse
 npm install -g hpm-cli
 npm install -g electron
 npm install -g @vue/cli
+npm install -g ionic
