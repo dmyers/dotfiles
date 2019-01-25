@@ -77,8 +77,6 @@ brew cask install istumbler
 brew cask install jewelrybox
 brew cask install kitematic
 brew cask install pusher
-brew cask install sequel-pro
-#brew cask install sequel-pro-nightly
 brew cask install shuttle
 brew cask install sublime-text
 brew cask install sourcetree
