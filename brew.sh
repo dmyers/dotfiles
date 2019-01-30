@@ -175,7 +175,7 @@ brew install bash-completion2
 brew install grunt-completion
 brew install vagrant-completion
 brew install wpcli-completion
-brew install docker-completion docker-compose-completion
+brew install docker-compose-completion
 brew install ruby-completion
 
 # Remove outdated versions from the cellar
