@@ -165,10 +165,11 @@ brew install redis
 brew install elasticsearch
 brew install mongodb
 brew install influxdb
-brew install dynamodb-local
+#brew install dynamodb-local
 
 # Install AWS tools
-brew install awscli aws-elasticbeanstalk
+brew install awscli
+#brew install aws-elasticbeanstalk
 
 # Install CLI completions
 brew install bash-completion2
