@@ -22,6 +22,7 @@ brew install coreutils
 
 # Install GNU `find`, `locate`, `updatedb`, and `xargs`, g-prefixed
 brew install findutils
+brew install binutils
 
 # Install GNU `sed`, overwriting the built-in `sed`.
 brew install gnu-sed --with-default-names
