@@ -106,3 +106,4 @@ brew cask install tabula
 #brew cask install medis
 #brew cask install rdm
 brew cask install tableplus
+brew cask install hex-fiend
