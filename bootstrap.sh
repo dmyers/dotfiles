@@ -52,7 +52,7 @@ source composer.sh
 
 # Install and setup Valet
 valet install
-valet domain app
+valet domain test
 
 # Install Ruby gems
 #source gems.sh
