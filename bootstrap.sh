@@ -39,7 +39,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 #mv composer.phar ~/bin/composer
 
 # Install RVM
-\curl -L https://get.rvm.io | bash -s stable --ruby
+#\curl -L https://get.rvm.io | bash -s stable --ruby
 
 # Install Brew packages
 source brew.sh
