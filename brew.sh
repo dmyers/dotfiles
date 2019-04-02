@@ -110,7 +110,9 @@ brew install gitsh
 brew install ievms
 brew install geoip
 brew install vegeta
-brew install docker docker-machine docker-compose
+#brew install docker
+#brew install docker-compose
+#brew install docker-machine
 brew install wrk
 brew install mitmproxy
 brew install heroku-toolbelt
