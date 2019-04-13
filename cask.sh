@@ -81,6 +81,7 @@ brew cask install pusher
 brew cask install shuttle
 brew cask install sublime-text
 brew cask install sublime-merge
+brew cask install visual-studio-code
 brew cask install sourcetree
 brew cask install vagrant vagrant-manager
 brew cask install virtualbox
