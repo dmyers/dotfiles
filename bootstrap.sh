@@ -8,6 +8,7 @@ sudo spctl --master-disable
 
 # Install command line tools
 xcode-select --install
+sudo xcode-select --switch /Library/Developer/CommandLineTools
 
 # Setup dotfiles
 curl -Lo dotfiles.tar.gz https://github.com/dmyers/dotfiles/archive/master.tar.gz
