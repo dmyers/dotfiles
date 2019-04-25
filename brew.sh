@@ -86,6 +86,7 @@ brew install wifi-password
 brew install fio
 brew install pv
 brew install prettyping
+brew install swaks
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
