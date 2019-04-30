@@ -41,6 +41,7 @@ npm install -g lighthouse
 npm install -g hpm-cli
 npm install -g electron
 npm install -g @vue/cli
+npm install -g vue-native-cli
 npm install -g framework7-cli
 npm install -g ionic
 npm install -g prettier
