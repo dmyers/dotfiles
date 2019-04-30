@@ -40,6 +40,7 @@ npm install -g node-sass
 npm install -g lighthouse
 npm install -g hpm-cli
 npm install -g electron
+npm install -g expo-cli
 npm install -g @vue/cli
 npm install -g vue-native-cli
 npm install -g framework7-cli
