@@ -28,6 +28,7 @@ npm install -g requirejs
 npm install -g grunt-cli
 npm install -g imageoptim-cli
 npm install -g ios-sim
+npm install -g ios-deploy
 npm install -g jshint
 npm install -g node-inspector
 npm install -g nodewebkit
