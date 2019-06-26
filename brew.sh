@@ -152,7 +152,7 @@ brew install knock
 brew install hashpump
 
 # Install prog langs
-brew install node
+brew install node nvm
 brew install python
 brew install php@7.1
 brew link php@7.1 --force
