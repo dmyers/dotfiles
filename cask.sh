@@ -62,6 +62,7 @@ brew cask install outline-manager
 #brew cask install alfred
 brew cask install plex-media-server
 brew cask install plex-media-player
+brew cask install caption
 
 # Install dev apps
 brew cask install chrome-devtools
