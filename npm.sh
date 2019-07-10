@@ -18,6 +18,7 @@ npm install -g gifify
 npm install -g chrome-remote-interface
 
 # Install dev tools
+npm install -g cheerio
 npm install -g pkg
 npm install -g gulp
 npm install -g api-benchmark
