@@ -108,6 +108,7 @@ brew install gitlab-runner
 brew install gd
 brew install mcrypt
 brew install hub
+brew install pup
 brew install jq
 brew install gitsh
 brew install ievms
