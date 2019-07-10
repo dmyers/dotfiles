@@ -10,7 +10,7 @@ export PATH="/usr/local/opt/php@7.1/bin:$PATH"
 export PATH="/usr/local/opt/php@7.1/sbin:$PATH"
 
 # Add composer to path
-export PATH="$PATH:$HOME/.composer/vendor/bin"
+export PATH="$HOME/.composer/vendor/bin:$PATH"
 
 # Add RVM to PATH
-export PATH="$PATH:$HOME/.rvm/bin"
+#export PATH="$HOME/.rvm/bin:$PATH"
