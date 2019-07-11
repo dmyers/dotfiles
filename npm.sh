@@ -53,3 +53,4 @@ npm install -g ionic
 npm install -g prettier
 npm install -g cordova
 npm install -g netlify-cli
+npm install -g eslint
