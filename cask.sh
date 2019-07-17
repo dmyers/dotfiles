@@ -60,7 +60,8 @@ brew cask install mendeley
 #brew cask install handbrake
 brew cask install outline-manager
 #brew cask install alfred
-brew cask install plex-media-server
+brew cask install hdhomerun
+#brew cask install plex-media-server
 brew cask install plex-media-player
 brew cask install caption
 
