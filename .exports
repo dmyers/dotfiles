@@ -1,6 +1,6 @@
-# Make Sublime Text default editor
-export VISUAL='subl -w'
-export EDITOR='subl -w'
+# Make code the default editor
+export VISUAL="code -w"
+export EDITOR="code -w"
 
 # Larger bash history (allow 32³ entries; default is 500)
 export HISTSIZE=32768
