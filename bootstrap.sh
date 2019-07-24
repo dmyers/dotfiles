@@ -70,8 +70,8 @@ source vagrant.sh
 # Install Mac App Store apps
 source mas.sh
 
-# Symlink subl command
-ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+# Symlink code command
+#ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/code
 
 # Symlink stree command
 ln -s "/Applications/SourceTree.app/Contents/Resources/stree" ~/bin/stree
