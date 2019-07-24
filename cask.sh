@@ -66,6 +66,7 @@ brew cask install plex-media-player
 brew cask install caption
 
 # Install dev apps
+brew cask install ksdiff
 brew cask install chrome-devtools
 brew cask install atom
 brew cask install cakebrew
