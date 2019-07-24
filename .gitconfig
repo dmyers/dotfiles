@@ -14,3 +14,22 @@
 
 [help]
 	autocorrect = 1
+
+[diff]
+	tool = ksdiff
+
+[merge]
+	tool = ksdiff
+
+[difftool]
+	prompt = false
+
+[mergetool]
+	prompt = false
+
+[difftool "ksdiff"]
+	cmd = ksdiff --partial-changeset --relative-path \"$MERGED\" -- \"$LOCAL\" \"$REMOTE\"
+
+[mergetool "ksdiff"]
+	cmd = ksdiff --merge --output \"$MERGED\" --base \"$BASE\" -- \"$LOCAL\" --snapshot \"$REMOTE\" --snapshot
+	trustexitcode = true
