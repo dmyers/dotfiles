@@ -88,6 +88,7 @@ brew install pv
 brew install prettyping
 brew install swaks
 brew install libdvdcss
+brew install smartmontools
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
