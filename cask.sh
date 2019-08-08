@@ -95,13 +95,11 @@ brew cask install psequel
 brew cask install hyper
 brew cask install ngrok
 #brew cask install cactus
-#brew cask install wireshark
 #brew cask install datagrip
 #brew cask install burp-suite
 brew cask install gitify
 #brew cask install screenhero
 brew cask install harvest
-brew cask install avocode
 brew cask install docker
 brew cask install nucleo
 brew cask install postman
@@ -115,3 +113,9 @@ brew cask install tableplus
 brew cask install hex-fiend
 brew cask install borgbackup
 brew cask install synologyassistant
+
+# Install design apps
+brew cask install avocode
+
+# Install networking apps
+#brew cask install wireshark
