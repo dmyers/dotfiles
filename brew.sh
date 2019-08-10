@@ -169,12 +169,12 @@ brew link php@7.1 --force
 brew install php-cs-fixer
 
 # Install dbs
-brew install mysql@5.7
-brew install sqlite
-brew install redis
-brew install elasticsearch
-brew install mongodb
-brew install influxdb
+#brew install mysql@5.7
+#brew install sqlite
+#brew install redis
+#brew install elasticsearch
+#brew install mongodb
+#brew install influxdb
 #brew install dynamodb-local
 
 # Install AWS tools
