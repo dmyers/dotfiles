@@ -118,4 +118,5 @@ brew cask install synologyassistant
 brew cask install avocode
 
 # Install networking apps
+brew cask install tunnelblick
 #brew cask install wireshark
