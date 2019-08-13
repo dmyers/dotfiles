@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+docker pull ubuntu:18.04
 docker pull diogomonica/docker-bench-security
 docker pull serjs/go-socks5-proxy
 docker pull kalilinux/kali-linux-docker
