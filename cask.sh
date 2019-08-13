@@ -113,6 +113,7 @@ brew cask install tableplus
 brew cask install hex-fiend
 brew cask install borgbackup
 brew cask install synologyassistant
+brew cask install google-cloud-sdk
 
 # Install design apps
 brew cask install avocode
