@@ -7,6 +7,8 @@
 brew cask install font-hack
 brew cask install font-hack-nerd-font
 brew cask install font-fira-code
+brew cask install font-firacode-nerd-font
+brew cask install font-firacode-nerd-font-mono
 brew cask install font-inter-ui
 brew cask install font-fontawesome
 brew cask install font-open-sans font-open-sans-condensed
