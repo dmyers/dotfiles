@@ -15,6 +15,7 @@ brew cask install font-open-sans font-open-sans-condensed
 brew cask install font-yanone-kaffeesatz
 brew cask install font-blokk
 brew cask install font-overpass
+brew cask install font-3270-nerd-font
 
 # Install general apps
 brew cask install arq
