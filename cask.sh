@@ -17,6 +17,7 @@ brew cask install font-yanone-kaffeesatz
 brew cask install font-blokk
 brew cask install font-overpass
 brew cask install font-3270-nerd-font
+brew cask install font-powerline-symbols
 
 # Install general apps
 brew cask install arq
