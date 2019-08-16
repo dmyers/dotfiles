@@ -23,7 +23,7 @@ npm install -g pkg
 npm install -g gulp
 npm install -g api-benchmark
 npm install -g request
-npm install -g underscore
+npm install -g lodash
 npm install -g open
 npm install -g supervisor
 npm install -g nodemon
