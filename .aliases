@@ -57,3 +57,42 @@ alias wifipass="security find-generic-password -wa \"$(wifiname)\""
 
 # Make phpcs use colors with progress during run
 alias phpcs="phpcs --colors -p"
+
+# Run the docker services in the background
+alias dcu="docker-compose up -d"
+
+# Stop all the running docker services
+alias dcd="docker-compose down"
+
+# Execute a bash shell inside the running <container>
+alias dex="dex-fn"
+
+# Inspects the docker <container>
+alias di="di-fn"
+
+# List all the IP addresses in the (named) running docker containers
+alias dip="dip-fn"
+
+# Gets the logs for a docker <container>
+alias dl="dl-fn"
+
+# List the names of all the running docker containers
+alias dnames="dnames-fn"
+
+# List the docker processes status
+alias dps="docker ps"
+
+# List the docker processes status of all users
+alias dpsa="docker ps -a"
+
+# Remove all exited docker containers
+alias drmc="drmc-fn"
+
+# Remove all dangling docker images
+alias drmid="drmid-fn"
+
+# Execute a bash shell in a new container from an <image>
+alias drun="drun-fn"
+
+# Stop and then remove a docker <container>
+alias dsr="dsr-fn"
