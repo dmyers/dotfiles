@@ -13,3 +13,55 @@ function title() {
   TITLE="\[\e]2;$*\a\]"
   PS1="${ORIG}${TITLE}"
 }
+
+# List the names of all the running docker containers
+function dnames-fn {
+  for ID in `docker ps | awk '{print $1}' | grep -v 'CONTAINER'`
+  do
+      docker inspect $ID | grep Name | head -1 | awk '{print $2}' | sed 's/,//g' | sed 's%/%%g' | sed 's/"//g'
+  done
+}
+
+# List all the IP addresses in the (named) running docker containers
+function dip-fn {
+  for DOC in `dnames-fn`
+  do
+      IP=`docker inspect $DOC | grep -m3 IPAddress | cut -d '"' -f 4 | tr -d "\n"`
+      echo $DOC : $IP
+  done
+}
+
+# Execute a bash shell inside the running <container>
+function dex-fn {
+  docker exec -it $1 /bin/bash
+}
+
+# Inspects the docker <container>
+function di-fn {
+  docker inspect $1
+}
+
+# Gets the logs for a docker <container>
+function dl-fn {
+  docker logs -f $1
+}
+
+# Remove all exited docker containers
+function drmc-fn {
+  docker rm $(docker ps --all -q -f status=exited)
+}
+
+# Remove all dangling docker images
+function drmid-fn {
+  docker rmi $( docker images -q -f dangling=true)
+}
+
+# Execute a bash shell in a new container from an <image>
+function drun-fn {
+  docker run -it $1 /bin/bash
+}
+
+# Stop and then remove a docker <container>
+function dsr-fn {
+  docker stop $1;docker rm $1
+}
