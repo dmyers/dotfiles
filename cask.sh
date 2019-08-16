@@ -19,6 +19,15 @@ brew cask install font-overpass
 brew cask install font-3270-nerd-font
 brew cask install font-powerline-symbols
 
+# Install text editors
+#brew cask install sublime-text
+brew cask install phpstorm
+brew cask install visual-studio-code
+
+# Install git clients
+brew cask install sublime-merge
+brew cask install sourcetree
+
 # Install general apps
 brew cask install arq
 brew cask install adium
@@ -88,10 +97,6 @@ brew cask install jewelrybox
 brew cask install kitematic
 brew cask install pusher
 brew cask install shuttle
-brew cask install sublime-text
-brew cask install sublime-merge
-brew cask install visual-studio-code
-brew cask install sourcetree
 brew cask install vagrant vagrant-manager
 brew cask install virtualbox
 brew cask install cyberduck
