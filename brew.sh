@@ -183,6 +183,9 @@ brew install php-cs-fixer
 brew install awscli
 #brew install aws-elasticbeanstalk
 
+# Install video tools
+brew install ffmpeg
+
 # Install CLI completions
 brew install bash-completion2
 brew install grunt-completion
