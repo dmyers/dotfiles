@@ -78,6 +78,7 @@ brew cask install outline-manager
 brew cask install hdhomerun
 #brew cask install plex-media-server
 brew cask install plex-media-player
+brew cask install mediainfo
 brew cask install caption
 
 # Install dev apps
