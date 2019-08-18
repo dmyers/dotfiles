@@ -56,3 +56,4 @@ npm install -g prettier
 npm install -g cordova
 npm install -g netlify-cli
 npm install -g eslint
+npm install -g eslint-plugin-vue
