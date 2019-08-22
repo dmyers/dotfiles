@@ -82,6 +82,7 @@ brew cask install mediainfo
 brew cask install caption
 
 # Install dev apps
+brew cask install launchrocket
 brew cask install ksdiff
 brew cask install chrome-devtools
 brew cask install atom
