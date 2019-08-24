@@ -32,6 +32,9 @@ brew install gnu-sed --with-default-names
 # running `chsh`.
 brew install bash
 
+# Install Z shell.
+brew install zsh
+
 # Install more recent versions of some OSX tools
 brew install vim --with-override-system-vi
 brew install grep --with-default-names
