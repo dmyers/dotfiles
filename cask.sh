@@ -10,7 +10,7 @@ brew cask install font-fira-code
 brew cask install font-firacode-nerd-font
 brew cask install font-firacode-nerd-font-mono
 brew cask install font-fira-mono-for-powerline
-brew cask install font-inter-ui
+brew cask install font-inter
 brew cask install font-fontawesome
 brew cask install font-open-sans font-open-sans-condensed
 brew cask install font-yanone-kaffeesatz
