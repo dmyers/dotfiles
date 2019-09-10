@@ -99,9 +99,10 @@ brew cask install jewelrybox
 brew cask install kitematic
 brew cask install pusher
 brew cask install shuttle
-brew cask install vagrant vagrant-manager
-brew cask install virtualbox
-brew cask install cyberduck
+#brew cask install vagrant
+#brew cask install vagrant-manager
+#brew cask install virtualbox
+#brew cask install cyberduck
 brew cask install royal-tsx
 brew cask install bitbar
 brew cask install psequel
