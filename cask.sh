@@ -62,7 +62,7 @@ brew cask install discord
 brew cask install whatsapp
 brew cask install kodi
 brew cask install sketch
-brew cask install diffmerge
+#brew cask install diffmerge
 brew cask install meld
 #brew cask install sage
 brew cask install fanny
