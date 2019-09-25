@@ -107,6 +107,7 @@ brew install sshuttle
 brew install sshrc
 
 # Install dev tools
+brew install traefik
 brew install dnstwist
 brew install dnsmasq
 brew install git
