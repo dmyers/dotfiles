@@ -133,5 +133,6 @@ brew cask install google-cloud-sdk
 brew cask install avocode
 
 # Install networking apps
+brew cask install angry-ip-scanner
 brew cask install tunnelblick
 #brew cask install wireshark
