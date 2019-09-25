@@ -192,10 +192,10 @@ brew install ffmpeg
 
 # Install CLI completions
 brew install bash-completion2
-brew install grunt-completion
-brew install vagrant-completion
 brew install wpcli-completion
 brew install ruby-completion
+#brew install grunt-completion
+#brew install vagrant-completion
 
 # Remove outdated versions from the cellar
 brew cleanup
