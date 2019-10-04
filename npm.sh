@@ -64,3 +64,4 @@ npm install -g ionic
 npm install -g cordova
 npm install -g netlify-cli
 npm install -g debundle
+npm install -g serverless
