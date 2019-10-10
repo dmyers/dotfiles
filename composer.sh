@@ -12,3 +12,4 @@ composer global require phan/phan=^1.2
 #composer global require orangehill/iseed
 #composer global require xethron/migrations-generator
 composer global require tightenco/tlint
+composer global require barryvdh/laravel-ide-helper
