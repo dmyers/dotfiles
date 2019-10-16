@@ -9,7 +9,7 @@ composer global require laravel/lumen-installer
 composer global require laravel/envoy
 composer global require friendsofphp/php-cs-fixer
 composer global require squizlabs/php_codesniffer
-composer global require phan/phan=^1.2
+composer global require phan/phan
 #composer global require orangehill/iseed
 #composer global require xethron/migrations-generator
 composer global require tightenco/tlint
