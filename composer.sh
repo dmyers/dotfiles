@@ -4,6 +4,7 @@ composer global require roots/sage
 composer global require laravel/homestead=~6.2
 composer global require laravel/valet=~2.2
 composer global require laravel/installer=^2.0
+composer global require laravel/spark-installer
 composer global require laravel/lumen-installer=^1.0
 composer global require laravel/envoy=~1.0
 composer global require friendsofphp/php-cs-fixer
