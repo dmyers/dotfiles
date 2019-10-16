@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 composer global require roots/sage
-composer global require laravel/homestead=~6.2
+composer global require laravel/homestead
 composer global require laravel/valet
 composer global require laravel/installer
 composer global require laravel/spark-installer
