@@ -6,7 +6,7 @@ composer global require laravel/valet
 composer global require laravel/installer
 composer global require laravel/spark-installer
 composer global require laravel/lumen-installer
-composer global require laravel/envoy=~1.0
+composer global require laravel/envoy
 composer global require friendsofphp/php-cs-fixer
 composer global require squizlabs/php_codesniffer
 composer global require phan/phan=^1.2
