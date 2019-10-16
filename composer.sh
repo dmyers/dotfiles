@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 
+# WordPress
 composer global require roots/sage
+
+# Laravel
 composer global require laravel/homestead
 composer global require laravel/valet
 composer global require laravel/installer
