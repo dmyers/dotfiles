@@ -20,9 +20,10 @@ brew cask install font-3270-nerd-font
 brew cask install font-powerline-symbols
 
 # Install text editors
-#brew cask install sublime-text
-brew cask install phpstorm
 brew cask install visual-studio-code
+brew cask install phpstorm
+#brew cask install sublime-text
+#brew cask install atom
 
 # Install git clients
 brew cask install sublime-merge
@@ -86,7 +87,6 @@ brew cask install balenaetcher
 brew cask install launchrocket
 brew cask install ksdiff
 brew cask install chrome-devtools
-brew cask install atom
 brew cask install cakebrew
 brew cask install dockertoolbox
 brew cask install fontprep
