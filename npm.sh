@@ -62,6 +62,7 @@ npm install -g vue-language-server
 npm install -g framework7-cli
 npm install -g ionic
 npm install -g cordova
+npm install -g phonegap
 npm install -g netlify-cli
 npm install -g debundle
 npm install -g serverless
