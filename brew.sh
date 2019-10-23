@@ -9,7 +9,7 @@ brew upgrade -all
 # Tap more package sources
 brew tap caskroom/versions
 brew tap caskroom/cask
-brew tap caskroom/fonts
+brew tap homebrew/cask-fonts
 brew tap caskroom/drivers
 brew tap thoughtbot/formulae
 #brew tap homebrew/versions
