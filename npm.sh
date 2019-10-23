@@ -5,6 +5,7 @@ nvm install lts/dubnium
 nvm use lts/dubnium
 
 # Install general libraries
+npm install -g node-gyp
 npm install -g yarn
 npm install -g pageres
 npm install -g peerflix
