@@ -1,7 +1,11 @@
 #!/usr/bin/env bash
 
 # Install node LTS version
+nvm install lts/erbium
 nvm install lts/dubnium
+nvm install lts/carbon
+
+# Change node version
 nvm use lts/dubnium
 
 # Install general libraries
