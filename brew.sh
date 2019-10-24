@@ -144,6 +144,7 @@ brew install poppler
 brew install kylef/formulae/swiftenv
 brew install kubectl
 brew install dehydrated
+brew install pulumi
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
