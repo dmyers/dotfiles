@@ -84,6 +84,7 @@ brew cask install caption
 brew cask install balenaetcher
 
 # Install dev apps
+brew cask install mysqlworkbench
 brew cask install launchrocket
 brew cask install ksdiff
 brew cask install chrome-devtools
