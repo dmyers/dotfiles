@@ -120,7 +120,6 @@ brew cask install nucleo
 brew cask install postman
 brew cask install hopper-disassembler
 brew cask install upterm
-brew cask install chronograf
 brew cask install tabula
 #brew cask install medis
 #brew cask install rdm
@@ -130,6 +129,7 @@ brew cask install hex-fiend
 brew cask install borgbackup
 brew cask install synologyassistant
 brew cask install google-cloud-sdk
+#brew cask install chronograf
 
 # Install design apps
 brew cask install avocode
