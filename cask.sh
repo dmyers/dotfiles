@@ -31,7 +31,6 @@ brew cask install sourcetree
 
 # Install general apps
 brew cask install arq
-brew cask install adium
 brew cask install appcleaner
 brew cask install audacity
 brew cask install caffeine
