@@ -9,6 +9,7 @@ nvm install lts/carbon
 nvm use lts/dubnium
 
 # Install general libraries
+npm install -g shelljs
 npm install -g node-gyp
 npm install -g yarn
 npm install -g pageres
