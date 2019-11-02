@@ -9,8 +9,6 @@ nvm install lts/carbon
 nvm use lts/dubnium
 
 # Install general libraries
-npm install -g shelljs
-npm install -g node-gyp
 npm install -g yarn
 npm install -g pageres
 npm install -g peerflix
@@ -35,6 +33,9 @@ npm install -g eslint-plugin-vue
 npm install -g pug-lint
 
 # Install dev tools
+npm install -g node-gyp
+npm install -g shelljs
+npm install -g aws-cdk
 npm install -g cheerio
 npm install -g pkg
 npm install -g gulp
