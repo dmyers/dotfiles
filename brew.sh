@@ -145,6 +145,7 @@ brew install kylef/formulae/swiftenv
 brew install kubectl
 brew install dehydrated
 brew install pulumi
+brew install nektos/tap/act
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
