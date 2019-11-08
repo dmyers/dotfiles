@@ -93,6 +93,7 @@ brew install smartmontools
 brew install openvpn
 brew install ddclient
 brew install slackcat
+brew install slacknimate
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
