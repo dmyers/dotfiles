@@ -92,6 +92,7 @@ brew install libdvdcss
 brew install smartmontools
 brew install openvpn
 brew install ddclient
+brew install slackcat
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
