@@ -187,6 +187,7 @@ brew install php-cs-fixer
 # Install AWS tools
 brew install awscli
 brew install awslogs
+brew install amazon-ecs-cli
 #brew install aws-elasticbeanstalk
 
 # Install video tools
