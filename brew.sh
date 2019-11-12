@@ -14,6 +14,7 @@ brew tap thoughtbot/formulae
 #brew tap homebrew/versions
 brew tap homebrew/services
 brew tap joshuaclayton/formulae
+brew tap xo/xo
 
 # Install GNU core utilities (those that come with macOS are outdated).
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
@@ -148,6 +149,7 @@ brew install kubectl
 brew install dehydrated
 brew install pulumi
 brew install nektos/tap/act
+brew install usql
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
