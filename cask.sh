@@ -130,6 +130,7 @@ brew cask install borgbackup
 brew cask install synologyassistant
 brew cask install google-cloud-sdk
 #brew cask install chronograf
+brew cask install github
 
 # Install design apps
 brew cask install avocode
