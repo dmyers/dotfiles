@@ -15,6 +15,7 @@ brew tap thoughtbot/formulae
 brew tap homebrew/services
 brew tap joshuaclayton/formulae
 brew tap xo/xo
+brew tap twilio/brew
 
 # Install GNU core utilities (those that come with macOS are outdated).
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
@@ -95,6 +96,7 @@ brew install openvpn
 brew install ddclient
 brew install slackcat
 brew install slacknimate
+brew install twilio
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
