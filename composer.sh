@@ -4,6 +4,7 @@
 composer global require roots/sage
 
 # Laravel
+composer global require laravel/vapor-cli
 composer global require laravel/homestead
 composer global require laravel/valet
 composer global require laravel/installer
