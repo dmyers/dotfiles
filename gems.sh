@@ -39,3 +39,4 @@ gem install meta_request
 gem install did_you_mean
 gem install cocoapods
 gem install pem
+gem install solargraph
