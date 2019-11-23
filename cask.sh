@@ -28,6 +28,7 @@ brew cask install phpstorm
 # Install git clients
 brew cask install sublime-merge
 brew cask install sourcetree
+brew cask install gitkraken
 
 # Install general apps
 brew cask install arq
