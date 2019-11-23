@@ -8,6 +8,10 @@
 [core]
 	editor = code -w
 	pager = cat
+	
+[alias]
+	st = status
+	nuke = ! git reset --hard && git clean -df
 
 [log]
 	date = local
