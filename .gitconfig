@@ -25,6 +25,9 @@
 [merge]
 	tool = ksdiff
 
+[fetch]
+	prune = true
+
 [difftool]
 	prompt = false
 
