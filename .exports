@@ -40,3 +40,12 @@ export PAGER="most"
 
 # Set rvmsudo up
 export rvmsudo_secure_path=1
+
+# Set Xdebug config to use VS Code
+export XDEBUG_CONFIG="idekey=VSCODE"
+
+# Set docker compose timeout
+export COMPOSE_HTTP_TIMEOUT=200
+
+# Remove PHP composer memory limit
+export COMPOSER_MEMORY_LIMIT=-1
