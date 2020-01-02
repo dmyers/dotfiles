@@ -180,7 +180,8 @@ brew link php@7.2 --force
 brew install php-cs-fixer
 
 # Install dbs
-#brew install mysql@5.7
+#brew install mysql@8.0 mysql-client
+#brew install mysql@5.7 mysql-client@5.7
 #brew install sqlite
 #brew install redis
 #brew install elasticsearch
