@@ -47,6 +47,7 @@ brew cask install java
 #brew install instantclient-basic instantclient-sdk instantclient-sqlplus
 
 # Install other useful binaries
+brew install csvkit
 brew install ripgrep
 brew install lsd
 brew install fd
