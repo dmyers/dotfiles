@@ -81,6 +81,7 @@ brew cask install hdhomerun
 brew cask install plex-media-player
 brew cask install mediainfo
 brew cask install caption
+brew cask install thinkorswim
 brew cask install balenaetcher
 
 # Install dev apps
