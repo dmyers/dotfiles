@@ -7,6 +7,7 @@ composer global require roots/sage
 composer global require laravel/vapor-cli
 composer global require laravel/homestead
 composer global require laravel/valet
+composer global require weprovide/valet-plus
 composer global require laravel/installer
 composer global require laravel/spark-installer
 composer global require laravel/lumen-installer
