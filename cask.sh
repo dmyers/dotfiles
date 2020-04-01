@@ -31,6 +31,7 @@ brew cask install sourcetree
 brew cask install gitkraken
 
 # Install general apps
+brew cask install airtable
 brew cask install arq
 brew cask install appcleaner
 brew cask install audacity
