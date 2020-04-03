@@ -72,7 +72,7 @@ brew cask install fanny
 #brew cask install daisydisk
 brew cask install chrome-remote-desktop-host
 brew cask install battle-net
-#brew cask install 1password
+brew cask install 1password 1password-cli
 brew cask install mendeley
 #brew cask install handbrake
 brew cask install outline-manager
