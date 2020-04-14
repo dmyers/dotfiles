@@ -74,3 +74,4 @@ npm install -g netlify-cli
 npm install -g debundle
 npm install -g serverless
 npm install -g scrapoxy
+npm install -g @luminati-io/luminati-proxy
