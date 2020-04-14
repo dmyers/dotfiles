@@ -73,5 +73,6 @@ npm install -g phonegap
 npm install -g netlify-cli
 npm install -g debundle
 npm install -g serverless
+npm install -g proxy-lists
 npm install -g scrapoxy
 npm install -g @luminati-io/luminati-proxy
