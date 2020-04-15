@@ -33,6 +33,7 @@ npm install -g eslint-plugin-vue
 npm install -g pug-lint
 
 # Install dev tools
+npm install -g pwa-asset-generator
 npm install -g node-gyp
 npm install -g shelljs
 npm install -g aws-cdk
