@@ -86,6 +86,7 @@ brew cask install thinkorswim
 brew cask install balenaetcher
 
 # Install dev apps
+brew cask install chromedriver
 brew cask install mysqlworkbench
 brew cask install launchrocket
 brew cask install ksdiff
