@@ -56,7 +56,6 @@ brew cask install steam
 brew cask install transmission
 brew cask install vlc
 brew cask install the-unarchiver
-brew cask install skitch
 brew cask install typora
 brew cask install unrarx
 brew cask install carbon-copy-cloner superduper
@@ -138,6 +137,7 @@ brew cask install github
 
 # Install design apps
 brew cask install avocode
+brew cask install skitch
 
 # Install networking apps
 brew cask install angry-ip-scanner
