@@ -67,6 +67,7 @@ brew install icdiff
 brew install archey
 brew install gifify gifsicle
 brew install tor
+brew install privoxy
 brew install mackup
 brew install whois
 brew install iproute2mac
