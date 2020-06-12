@@ -33,6 +33,7 @@ npm install -g eslint-plugin-vue
 npm install -g pug-lint
 
 # Install dev tools
+npm install -g chromeos-apk
 npm install -g puppeteer
 npm install -g puppeteer-cluster
 npm install -g pwa-asset-generator
