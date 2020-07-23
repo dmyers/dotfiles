@@ -68,6 +68,7 @@ npm install -g hpm-cli
 npm install -g electron
 npm install -g expo-cli
 npm install -g @vue/cli
+npm install -g @vue/cli-service-global
 npm install -g vue-native-cli
 npm install -g vue-language-server
 npm install -g framework7-cli
