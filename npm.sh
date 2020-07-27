@@ -85,3 +85,4 @@ npm install -g proxy-lists
 npm install -g scrapoxy
 npm install -g @luminati-io/luminati-proxy
 npm install -g @dollarshaveclub/cloudworker
+npm install -g @cloudflare/wrangler
