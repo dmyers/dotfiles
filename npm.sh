@@ -76,6 +76,7 @@ npm install -g framework7-cli
 npm install -g ionic
 npm install -g cordova
 npm install -g phonegap
+npm install -g nativescript
 npm install -g netlify-cli
 npm install -g debundle
 npm install -g tor-router
