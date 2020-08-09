@@ -86,6 +86,7 @@ brew cask install balenaetcher
 brew cask install imaging-edge
 
 # Install dev apps
+brew cask install iconizer
 brew cask install chromedriver
 brew cask install mysqlworkbench
 brew cask install launchrocket
