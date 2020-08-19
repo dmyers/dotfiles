@@ -19,6 +19,7 @@ npm install -g http-server
 npm install -g hostile
 npm install -g tldr
 npm install -g gifify
+npm install -g concurrently
 npm install -g chrome-remote-interface
 
 # Install preprocessors
