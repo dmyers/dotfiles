@@ -84,6 +84,7 @@ brew cask install caption
 brew cask install thinkorswim
 brew cask install balenaetcher
 brew cask install imaging-edge
+brew cask install gifox
 
 # Install dev apps
 brew cask install iconizer
