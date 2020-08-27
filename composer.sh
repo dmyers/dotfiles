@@ -18,6 +18,7 @@ composer global require tightenco/tlint
 #composer global require xethron/migrations-generator
 
 # Tools
+composer global require tightenco/takeout
 composer global require beyondcode/expose
 composer global require franzl/studio
 composer global require hirak/prestissimo
