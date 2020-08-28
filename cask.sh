@@ -87,6 +87,7 @@ brew cask install imaging-edge
 brew cask install gifox
 
 # Install dev apps
+brew cask install fastlane
 brew cask install iconizer
 brew cask install chromedriver
 brew cask install mysqlworkbench
