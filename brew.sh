@@ -112,6 +112,7 @@ brew install sshuttle
 brew install sshrc
 
 # Install dev tools
+brew install doctl
 brew install fastlane
 brew install traefik
 brew install dnstwist
