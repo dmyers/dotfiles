@@ -68,6 +68,7 @@ npm install -g lighthouse
 npm install -g hpm-cli
 npm install -g electron
 npm install -g expo-cli
+npm install -g @vue/devtools
 npm install -g @vue/cli
 npm install -g @vue/cli-init
 npm install -g @vue/cli-service-global
