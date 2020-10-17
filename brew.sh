@@ -191,6 +191,7 @@ brew install php-cs-fixer
 #brew install mysql@5.7 mysql-client@5.7
 #brew install sqlite
 #brew install redis
+#brew install meilisearch
 #brew install elasticsearch
 #brew install mongodb
 #brew install influxdb
