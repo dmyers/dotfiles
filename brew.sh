@@ -159,6 +159,7 @@ brew install pulumi
 brew install nektos/tap/act
 brew install usql
 brew install graphviz
+brew install whalebrew
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
