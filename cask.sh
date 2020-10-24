@@ -26,6 +26,7 @@ brew cask install visual-studio-code
 #brew cask install atom
 
 # Install git clients
+brew cask install github
 brew cask install sublime-merge
 brew cask install sourcetree
 brew cask install gitkraken
@@ -136,7 +137,6 @@ brew cask install borgbackup
 brew cask install synologyassistant
 brew cask install google-cloud-sdk
 #brew cask install chronograf
-brew cask install github
 
 # Install design apps
 brew cask install avocode
