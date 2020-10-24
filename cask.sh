@@ -21,7 +21,7 @@ brew cask install font-powerline-symbols
 
 # Install text editors
 brew cask install visual-studio-code
-brew cask install phpstorm
+#brew cask install phpstorm
 #brew cask install sublime-text
 #brew cask install atom
 
