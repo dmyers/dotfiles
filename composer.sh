@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+composer self-update --2
+
 # WordPress
 composer global require roots/sage
 
