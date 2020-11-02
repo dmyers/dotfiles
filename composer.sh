@@ -23,7 +23,6 @@ composer global require tightenco/tlint
 composer global require tightenco/takeout
 composer global require beyondcode/expose
 composer global require franzl/studio
-composer global require hirak/prestissimo
 composer global require phan/phan
 composer global require friendsofphp/php-cs-fixer
 composer global require squizlabs/php_codesniffer
