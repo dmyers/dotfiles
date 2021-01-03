@@ -57,6 +57,7 @@ brew cask install vlc
 brew cask install the-unarchiver
 brew cask install typora
 brew cask install notion
+brew cask install linear
 brew cask install unrarx
 brew cask install carbon-copy-cloner superduper
 brew cask install discord
