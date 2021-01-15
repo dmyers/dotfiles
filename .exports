@@ -33,7 +33,7 @@ export HOMEBREW_NO_ANALYTICS=1
 export PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
 
 # Use most pager
-export PAGER="most"
+#export PAGER="most"
 
 # Set rvmsudo up
 export rvmsudo_secure_path=1
