@@ -203,6 +203,7 @@ brew install awscli
 brew install awslogs
 brew install amazon-ecs-cli
 #brew install aws-elasticbeanstalk
+brew install aws/tap/copilot-cli
 
 # Install video tools
 brew install ffmpeg
