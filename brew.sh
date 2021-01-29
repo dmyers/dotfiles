@@ -197,6 +197,7 @@ brew install php-cs-fixer
 #brew install mongodb
 #brew install influxdb
 #brew install dynamodb-local
+brew install metabase
 
 # Install AWS tools
 brew install awscli
