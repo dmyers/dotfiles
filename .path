@@ -12,6 +12,9 @@ export PATH="/usr/local/opt/php@7.2/sbin:$PATH"
 # Add composer to path
 export PATH="$HOME/.composer/vendor/bin:$PATH"
 
+# Add NPM to path
+export PATH="$HOME/.npm-packages/bin:$PATH"
+
 # Add RVM to PATH
 #export PATH="$HOME/.rvm/bin:$PATH"
 
