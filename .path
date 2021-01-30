@@ -14,3 +14,6 @@ export PATH="$HOME/.composer/vendor/bin:$PATH"
 
 # Add RVM to PATH
 #export PATH="$HOME/.rvm/bin:$PATH"
+
+# Add Python to PATH
+export PATH="/usr/local/opt/python/libexec/bin:$PATH"
