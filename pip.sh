@@ -6,3 +6,4 @@ pip install dns-lexicon[route53]
 #pip install http-prompt
 pip install cfscrape
 pip install ngxtop
+pip install whaler
