@@ -49,6 +49,7 @@ npm install -g request
 npm install -g lodash
 npm install -g open
 npm install -g supervisor
+npm install -g pm2
 npm install -g nodemon
 npm install -g forever
 npm install -g express-generator
