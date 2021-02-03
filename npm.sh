@@ -4,6 +4,7 @@
 nvm install lts/erbium
 nvm install lts/dubnium
 nvm install lts/carbon
+nvm install lts/fermium
 
 # Change node version
 nvm use lts/dubnium
