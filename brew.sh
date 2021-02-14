@@ -63,7 +63,7 @@ brew install tree
 brew install pstree psgrep
 brew install htop-osx
 brew install spoof-mac
-brew install fail2ban
+#brew install fail2ban
 brew install icdiff
 brew install archey
 brew install gifify gifsicle
