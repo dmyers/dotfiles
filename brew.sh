@@ -47,13 +47,13 @@ brew cask install java
 #brew install instantclient-basic instantclient-sdk instantclient-sqlplus
 
 # Install other useful binaries
+brew install grc
 brew install v8
 brew install csvkit
 brew install ripgrep
 brew install lsd
 brew install fd
 brew install wget curl
-brew install grc
 brew install telnet
 brew install tmux
 brew install man2html
