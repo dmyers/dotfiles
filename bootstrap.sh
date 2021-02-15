@@ -79,6 +79,10 @@ ln -s "/Applications/SourceTree.app/Contents/Resources/stree" ~/bin/stree
 cd ../
 rm -rf dotfiles-master
 
+# Setup Powerlevel10k theme for ZSH
+# @see https://github.com/romkatv/powerlevel10k
+echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >> ~/.zshrc
+
 # Switch shell to Bash 4
 BASHPATH=$(brew --prefix)/bin/bash
 echo $BASHPATH | sudo tee -a /etc/shells
