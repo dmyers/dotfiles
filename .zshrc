@@ -1,4 +1,4 @@
-
+# @see https://medium.com/@rafavinnce/iterm2-zsh-oh-my-zsh-material-design-the-most-power-full-terminal-on-macos-332b1ee364a5
 POWERLEVEL9K_MODE='nerdfont-complete'
 # Please only use this battery segment if you have material icons in your nerd font (or font)
 # Otherwise, use the font awesome one in "User Segments"
