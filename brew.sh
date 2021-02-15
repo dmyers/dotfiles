@@ -112,6 +112,7 @@ brew install sshuttle
 brew install sshrc
 
 # Install dev tools
+brew install romkatv/powerlevel10k/powerlevel10k
 brew install cloudflare/cloudflare/cloudflared
 brew install doctl
 brew install fastlane
