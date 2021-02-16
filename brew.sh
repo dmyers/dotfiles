@@ -15,6 +15,7 @@ brew tap thoughtbot/formulae
 brew tap homebrew/services
 brew tap joshuaclayton/formulae
 brew tap xo/xo
+brew tap nicoverbruggen/homebrew-cask
 brew tap twilio/brew
 
 # Install GNU core utilities (those that come with macOS are outdated).
