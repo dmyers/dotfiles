@@ -141,6 +141,7 @@ brew install --cask synologyassistant
 brew install --cask google-cloud-sdk
 #brew install --cask chronograf
 brew install --cask mongodb-compass
+brew install --cask ray
 
 # Install design apps
 brew install --cask avocode
