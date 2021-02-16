@@ -138,6 +138,7 @@ brew install --cask borgbackup
 brew install --cask synologyassistant
 brew install --cask google-cloud-sdk
 #brew install --cask chronograf
+brew install --cask mongodb-compass
 
 # Install design apps
 brew install --cask avocode
