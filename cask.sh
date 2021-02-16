@@ -32,6 +32,7 @@ brew install --cask sourcetree
 brew install --cask gitkraken
 
 # Install general apps
+brew install --cask hiddenbar
 brew install --cask airtable
 #brew install --cask arq
 brew install --cask appcleaner
