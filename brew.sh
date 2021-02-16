@@ -213,6 +213,7 @@ brew install aws/tap/copilot-cli
 brew install ffmpeg
 
 # Install CLI completions
+brew install brew-cask-completion
 brew install bash-completion2
 brew install wpcli-completion
 brew install ruby-completion
