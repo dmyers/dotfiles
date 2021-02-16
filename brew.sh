@@ -100,6 +100,7 @@ brew install ddclient
 brew install slackcat
 brew install slacknimate
 brew install twilio
+brew install mkcert
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
