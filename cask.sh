@@ -89,6 +89,7 @@ brew install --cask gifox
 
 # Install dev apps
 brew install --cask brewservicesmenubar
+brew install --cask phpmon
 brew install --cask iconizer
 brew install --cask chromedriver
 brew install --cask mysqlworkbench
