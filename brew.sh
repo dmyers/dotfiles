@@ -165,6 +165,7 @@ brew install usql
 brew install graphviz
 brew install whalebrew
 brew install dive
+brew install circleci
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
