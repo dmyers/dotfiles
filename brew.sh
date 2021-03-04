@@ -105,6 +105,7 @@ brew install slacknimate
 brew install twilio
 brew install mkcert
 brew install shellcheck
+brew install bluetoothconnector
 brew install blueutil
 brew install ical-buddy
 
