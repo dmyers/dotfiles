@@ -61,6 +61,7 @@ brew install man2html
 brew install libiconv
 brew install httpie
 brew install tree
+brew install rename
 brew install pstree psgrep
 brew install htop-osx
 brew install spoof-mac
