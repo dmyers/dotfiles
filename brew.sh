@@ -105,6 +105,7 @@ brew install slacknimate
 brew install twilio
 brew install mkcert
 brew install shellcheck
+brew install ical-buddy
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
