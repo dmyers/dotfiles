@@ -16,6 +16,7 @@ brew tap homebrew/services
 brew tap joshuaclayton/formulae
 brew tap xo/xo
 brew tap nicoverbruggen/homebrew-cask
+brew tap bramstein/webfonttools
 brew tap twilio/brew
 
 # Install GNU core utilities (those that come with macOS are outdated).
@@ -107,6 +108,11 @@ brew install shellcheck
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
+
+# Install font tools
+brew install sfnt2woff
+brew install sfnt2woff-zopfli
+brew install woff2
 
 # Install SSH tools
 brew install autossh
