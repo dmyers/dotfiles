@@ -145,6 +145,7 @@ brew install --cask google-cloud-sdk
 brew install --cask mongodb-compass
 brew install --cask ray
 brew install --cask tinkerwell
+brew install --cask hammerspoon
 
 # Install design apps
 brew install --cask avocode
