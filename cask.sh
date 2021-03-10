@@ -87,6 +87,7 @@ brew install --cask thinkorswim
 brew install --cask balenaetcher
 brew install --cask imaging-edge
 brew install --cask gifox
+#brew install --cask wine-stable
 
 # Install dev apps
 brew install --cask brewservicesmenubar
