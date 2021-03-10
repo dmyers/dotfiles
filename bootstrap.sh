@@ -53,6 +53,7 @@ source composer.sh
 
 # Install and setup Valet
 valet install
+sudo valet trust
 valet domain test
 
 # Install Ruby gems
