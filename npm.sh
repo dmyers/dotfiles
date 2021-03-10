@@ -91,6 +91,3 @@ npm install -g scrapoxy
 npm install -g @luminati-io/luminati-proxy
 npm install -g @dollarshaveclub/cloudworker
 npm install -g @cloudflare/wrangler
-
-# Install PM2 module
-pm2 install pm2-logrotate
