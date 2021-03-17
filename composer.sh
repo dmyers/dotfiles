@@ -17,6 +17,7 @@ composer global require laravel/envoy
 composer global require barryvdh/laravel-ide-helper
 composer global require tightenco/tlint
 composer global require bitfumes/laravel-packer
+composer global require themsaid/wink
 #composer global require orangehill/iseed
 #composer global require xethron/migrations-generator
 
