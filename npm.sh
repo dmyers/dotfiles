@@ -29,6 +29,7 @@ npm install -g node-sass
 npm install -g less2sass
 
 # Install formatters
+npm install -g snazzy
 npm install -g prettier
 npm install -g eslint
 npm install -g eslint-plugin-vue
