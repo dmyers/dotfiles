@@ -36,6 +36,7 @@ npm install -g eslint-plugin-vue
 npm install -g pug-lint
 npm install -g standard
 npm install -g semistandard
+npm install -g jshint
 
 # Install dev tools
 npm install -g alfy
@@ -63,7 +64,6 @@ npm install -g grunt-cli
 npm install -g imageoptim-cli
 npm install -g ios-sim
 npm install -g ios-deploy
-npm install -g jshint
 npm install -g node-inspector
 npm install -g nodewebkit
 npm install -g rtail
