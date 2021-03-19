@@ -64,7 +64,6 @@ npm install -g imageoptim-cli
 npm install -g ios-sim
 npm install -g ios-deploy
 npm install -g jshint
-npm install -g standard
 npm install -g node-inspector
 npm install -g nodewebkit
 npm install -g rtail
