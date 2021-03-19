@@ -8,7 +8,7 @@
 [core]
 	editor = code -w
 	pager = cat
-        excludesfile = ~/.gitignore_global
+	excludesfile = ~/.gitignore_global
 
 [alias]
 	st = status
