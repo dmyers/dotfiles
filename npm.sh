@@ -34,6 +34,7 @@ npm install -g prettier
 npm install -g eslint
 npm install -g eslint-plugin-vue
 npm install -g pug-lint
+npm install -g standard
 npm install -g semistandard
 
 # Install dev tools
