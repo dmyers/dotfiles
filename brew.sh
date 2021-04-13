@@ -170,7 +170,7 @@ brew install poppler
 brew install kylef/formulae/swiftenv
 brew install kubectl
 brew install dehydrated
-brew install pulumi
+#brew install pulumi
 brew install nektos/tap/act
 brew install usql
 brew install graphviz
