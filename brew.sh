@@ -177,6 +177,7 @@ brew install graphviz
 brew install whalebrew
 brew install dive
 brew install circleci
+brew install act
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
