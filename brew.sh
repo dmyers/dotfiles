@@ -176,7 +176,7 @@ brew install usql
 brew install graphviz
 brew install whalebrew
 brew install dive
-brew install circleci
+#brew install circleci
 brew install act
 brew install copilot
 
