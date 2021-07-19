@@ -178,7 +178,6 @@ brew install whalebrew
 brew install dive
 #brew install circleci
 brew install act
-brew install copilot
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
@@ -223,7 +222,8 @@ brew install awscli
 brew install awslogs
 brew install amazon-ecs-cli
 #brew install aws-elasticbeanstalk
-brew install aws/tap/copilot-cli
+#brew install aws/tap/copilot-cli
+brew install copilot
 
 # Install video tools
 brew install ffmpeg
