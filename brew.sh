@@ -178,6 +178,7 @@ brew install whalebrew
 brew install dive
 brew install circleci
 brew install act
+brew install copilot
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
