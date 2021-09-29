@@ -46,7 +46,6 @@ brew install --cask mac2imgur
 #brew install --cask macdown
 #brew install --cask google-chrome
 #brew install --cask google-drive
-#brew install --cask google-backup-and-sync
 #brew install --cask google-drive-file-stream
 brew install --cask slack
 brew install --cask skype
