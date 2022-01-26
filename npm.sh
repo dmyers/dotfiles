@@ -10,6 +10,7 @@ nvm install lts/fermium
 nvm use lts/dubnium
 
 # Install general libraries
+npm install -g pnpm
 npm install -g yarn
 npm install -g pageres
 npm install -g peerflix
