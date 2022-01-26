@@ -94,3 +94,4 @@ npm install -g scrapoxy
 npm install -g @luminati-io/luminati-proxy
 npm install -g @dollarshaveclub/cloudworker
 npm install -g @cloudflare/wrangler
+npm install -g vue-devtools
