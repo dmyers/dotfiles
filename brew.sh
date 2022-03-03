@@ -18,6 +18,7 @@ brew tap xo/xo
 brew tap nicoverbruggen/homebrew-cask
 brew tap bramstein/webfonttools
 brew tap twilio/brew
+brew tap mongodb/brew
 
 # Install GNU core utilities (those that come with macOS are outdated).
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
@@ -218,6 +219,7 @@ brew install php-cs-fixer
 #brew install influxdb
 #brew install dynamodb-local
 brew install metabase
+#brew install mongodb-community
 
 # Install AWS tools
 brew install awscli
