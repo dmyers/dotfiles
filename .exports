@@ -28,6 +28,9 @@ export HOMEBREW_NO_AUTO_UPDATE=1
 # Disable brew analytics
 export HOMEBREW_NO_ANALYTICS=1
 
+# Disable brew env hints
+export HOMEBREW_NO_ENV_HINTS=1
+
 # Make new shells get the history lines from all previous
 # shells instead of the default "last window closed" history
 export PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
