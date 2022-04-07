@@ -29,7 +29,8 @@ brew install findutils
 brew install binutils
 
 # Install GNU `sed`, overwriting the built-in `sed`.
-brew install gnu-sed --with-default-names
+# @see https://discourse.brew.sh/t/why-was-with-default-names-removed/4405/5
+brew install gnu-sed
 
 # Install Bash 5.
 # Note: don’t forget to add `/usr/local/bin/bash` to `/etc/shells` before
