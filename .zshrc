@@ -1,3 +1,5 @@
+# @see https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
+
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH"
 
