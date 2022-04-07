@@ -126,7 +126,7 @@ brew install autossh
 brew install ssh-copy-id
 brew install stormssh
 brew install sshuttle
-brew install sshrc
+#brew install sshrc
 
 # Install dev tools
 brew install romkatv/powerlevel10k/powerlevel10k
