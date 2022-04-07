@@ -9,7 +9,7 @@ export SAVEHIST=$HISTSIZE
 
 # Add timestamp to history (zsh)
 # @see https://www.soberkoder.com/better-zsh-history/
-setopt EXTENDED_HISTORY
+#setopt EXTENDED_HISTORY
 
 # Ignore duplicate commands in bash history
 export HISTCONTROL=ignoredups
