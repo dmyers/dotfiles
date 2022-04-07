@@ -111,7 +111,6 @@ brew install --cask imagealpha imageoptim
 brew install --cask integrity
 brew install --cask iterm2
 brew install --cask insomnia
-brew install --cask insomnia-designer
 brew install --cask istumbler
 brew install --cask jewelrybox
 brew install --cask kitematic
