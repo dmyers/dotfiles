@@ -38,8 +38,9 @@ brew install gnu-sed
 brew install bash
 
 # Install more recent versions of some OSX tools
+# @see https://discourse.brew.sh/t/why-was-with-default-names-removed/4405/5
 brew install vim --with-override-system-vi
-brew install grep --with-default-names
+brew install grep
 brew install openssh
 brew install screen
 
