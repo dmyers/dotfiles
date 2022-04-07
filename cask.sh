@@ -2,6 +2,8 @@
 
 # Install drivers
 #brew install --cask logitech-options
+#brew install --cask logitech-control-center
+#brew install --cask logi-options-plus
 
 # Install fonts
 brew install --cask font-hack
