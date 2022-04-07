@@ -44,7 +44,7 @@ alias localips="ifconfig -a | grep -o 'inet \(\([0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]
 alias flush="dscacheutil -flushcache && killall -HUP mDNSResponder"
 
 # Scan the local network for devices
-alias netscan="arp-scan --localnet"
+alias netscan="sudo arp-scan --localnet"
 
 # Copy public key to clipboard
 alias pubkey="cat ~/.ssh/id_rsa.pub | pbcopy | printf 'Public key copied.\n'";
