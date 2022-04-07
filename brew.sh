@@ -202,6 +202,7 @@ brew install node nvm
 brew install yarn
 brew install python
 brew install php@7.4
+brew install composer
 brew link php@7.4 --force
 #brew install php56 --without-apache --without-ldap
 #brew install php56-mcrypt php56-xdebug php56-imagick php56-gmagick php56-pdo-dblib php56-tidy php56-xmldiff
