@@ -6,6 +6,9 @@ export EDITOR="code -w"
 export HISTSIZE=32768
 export HISTFILESIZE=$HISTSIZE
 
+export SAVEHIST=$HISTSIZE
+setopt EXTENDED_HISTORY
+
 # Ignore duplicate commands in bash history
 export HISTCONTROL=ignoredups
 
