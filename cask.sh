@@ -16,7 +16,7 @@ brew install --cask font-inter
 brew install --cask font-fontawesome
 brew install --cask font-open-sans font-open-sans-condensed
 brew install --cask font-yanone-kaffeesatz
-brew install --cask font-blokk
+#brew install --cask font-blokk
 brew install --cask font-overpass
 brew install --cask font-3270-nerd-font
 brew install --cask font-powerline-symbols
