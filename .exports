@@ -6,6 +6,9 @@ export EDITOR="code -w"
 export HISTSIZE=32768
 export HISTFILESIZE=$HISTSIZE
 
+# Enable zsh history file
+#export HISTFILE=~/.zsh_history
+
 # Larger zsh history
 export SAVEHIST=$HISTSIZE
 
