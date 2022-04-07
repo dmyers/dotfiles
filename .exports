@@ -5,6 +5,8 @@ export EDITOR="code -w"
 # Larger bash history (allow 32³ entries; default is 500)
 export HISTSIZE=32768
 export HISTFILESIZE=$HISTSIZE
+
+# Larger zsh history
 export SAVEHIST=$HISTSIZE
 
 # Add timestamp to history (zsh)
