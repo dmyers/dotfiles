@@ -10,6 +10,9 @@ sudo spctl --master-disable
 xcode-select --install
 sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 
+# Install Rosetta
+#sudo softwareupdate --install-rosetta
+
 # Setup dotfiles
 curl -Lo dotfiles.tar.gz https://github.com/dmyers/dotfiles/archive/master.tar.gz
 tar -zxvf dotfiles.tar.gz
