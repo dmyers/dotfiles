@@ -137,6 +137,7 @@ brew install fastlane
 brew install traefik
 brew install dnstwist
 brew install dnsmasq
+brew install svn
 brew install git
 brew install git-lfs
 brew install gitlab-runner
