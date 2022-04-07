@@ -104,7 +104,6 @@ brew install --cask launchrocket
 brew install --cask ksdiff
 brew install --cask chrome-devtools
 brew install --cask cakebrew
-brew install --cask dockertoolbox
 brew install --cask fontprep
 brew install --cask gas-mask
 brew install --cask imagealpha imageoptim
