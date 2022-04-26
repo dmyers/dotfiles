@@ -19,6 +19,7 @@ brew tap nicoverbruggen/homebrew-cask
 brew tap bramstein/webfonttools
 brew tap twilio/brew
 brew tap mongodb/brew
+brew tap shopify/shopify
 
 # Install GNU core utilities (those that come with macOS are outdated).
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
@@ -184,6 +185,7 @@ brew install dive
 #brew install circleci
 brew install act
 brew install lnav
+brew install shopify-cli
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
