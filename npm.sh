@@ -50,7 +50,7 @@ npm install -g shelljs
 npm install -g aws-cdk
 npm install -g cheerio
 npm install -g pkg
-npm install -g gulp
+npm install -g gulp gulp-cli
 npm install -g api-benchmark
 npm install -g request
 npm install -g lodash
