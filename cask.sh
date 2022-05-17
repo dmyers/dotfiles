@@ -41,7 +41,7 @@ brew install --cask appcleaner
 brew install --cask audacity
 brew install --cask caffeine
 #brew install --cask dropbox
-brew install --cask firefox
+#brew install --cask firefox
 #brew install --cask flux
 brew install --cask komanda
 brew install --cask mac2imgur
