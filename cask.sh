@@ -9,7 +9,7 @@
 brew install --cask font-hack
 brew install --cask font-hack-nerd-font
 brew install --cask font-fira-code
-#brew install --cask fo nt-firacode-nerd-font
+#brew install --cask font-firacode-nerd-font
 #brew install --cask font-firacode-nerd-font-mono
 brew install --cask font-fira-mono-for-powerline
 brew install --cask font-inter
