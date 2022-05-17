@@ -152,7 +152,7 @@ brew install --cask hammerspoon
 brew install --cask sqlectron
 
 # Install design apps
-brew install --cask avocode
+#brew install --cask avocode
 brew install --cask skitch
 
 # Install networking apps
