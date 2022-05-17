@@ -9,7 +9,7 @@
 brew install --cask font-hack
 brew install --cask font-hack-nerd-font
 brew install --cask font-fira-code
-#brew install --cask font-firacode-nerd-font
+#brew install --cask fo nt-firacode-nerd-font
 #brew install --cask font-firacode-nerd-font-mono
 brew install --cask font-fira-mono-for-powerline
 brew install --cask font-inter
@@ -49,8 +49,9 @@ brew install --cask mac2imgur
 brew install --cask google-chrome
 #brew install --cask google-drive
 #brew install --cask google-drive-file-stream
+brew install --cask zoom
 brew install --cask slack
-brew install --cask skype
+#brew install --cask skype
 brew install --cask spotify
 #brew install --cask microsoft-office
 #brew install --cask spotifree
