@@ -100,7 +100,7 @@ brew install --cask aws-vpn-client
 brew install --cask iconizer
 brew install --cask chromedriver
 brew install --cask mysqlworkbench
-brew install --cask launchrocket
+#brew install --cask launchrocket
 brew install --cask ksdiff
 brew install --cask chrome-devtools
 brew install --cask cakebrew
