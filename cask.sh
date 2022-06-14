@@ -93,6 +93,7 @@ brew install --cask gifox
 #brew install --cask wine-stable
 brew install --cask telegram
 brew install --cask xscope
+brew install --cask kap
 
 # Install dev apps
 brew install --cask brewservicesmenubar
