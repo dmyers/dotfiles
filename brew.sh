@@ -203,6 +203,7 @@ brew install hashpump
 brew install node nvm
 brew install yarn
 brew install python
+brew install rustup
 brew install php@7.4
 brew install composer
 brew link php@7.4 --force
