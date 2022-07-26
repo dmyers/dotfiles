@@ -53,6 +53,7 @@ brew cask install java
 #brew install instantclient-basic instantclient-sdk instantclient-sqlplus
 
 # Install other useful binaries
+brew install gnupg
 brew install grc
 brew install v8
 brew install csvkit
