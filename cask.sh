@@ -25,7 +25,6 @@ brew install --cask font-powerline-symbols
 brew install --cask visual-studio-code
 #brew install --cask phpstorm
 #brew install --cask sublime-text
-#brew install --cask atom
 
 # Install git clients
 brew install --cask github
