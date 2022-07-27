@@ -51,7 +51,8 @@ defaults write NSGlobalDomain InitialKeyRepeat -int 10
 defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
 
 # Stop iTunes from responding to the keyboard media keys
-launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist 2> /dev/null
+# Removed as it messes with Spotify too
+#launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist 2> /dev/null
 
 # Setup app preferences
 ./.app/.activitymonitor
