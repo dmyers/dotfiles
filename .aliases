@@ -96,3 +96,6 @@ alias drun="drun-fn"
 
 # Stop and then remove a docker <container>
 alias dsr="dsr-fn"
+
+# Laravel Sail global alias
+alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
