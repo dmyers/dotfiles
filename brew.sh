@@ -188,6 +188,7 @@ brew install dive
 brew install act
 brew install lnav
 brew install shopify-cli
+brew install stripe/stripe-cli/stripe
 brew install dopplerhq/cli/doppler
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
