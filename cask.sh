@@ -95,6 +95,7 @@ brew install --cask telegram
 brew install --cask xscope
 brew install --cask kap
 brew install --cask obs
+brew install --cask ishowu
 
 # Install dev apps
 brew install --cask brewservicesmenubar
