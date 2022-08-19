@@ -4,6 +4,7 @@
 #brew install --cask logitech-options
 #brew install --cask logitech-control-center
 #brew install --cask logi-options-plus
+brew install --cask blackhole-2ch
 
 # Install fonts
 brew install --cask font-hack
