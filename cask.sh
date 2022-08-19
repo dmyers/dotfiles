@@ -94,6 +94,7 @@ brew install --cask gifox
 brew install --cask telegram
 brew install --cask xscope
 brew install --cask kap
+brew install --cask obs
 
 # Install dev apps
 brew install --cask brewservicesmenubar
