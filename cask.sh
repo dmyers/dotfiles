@@ -139,7 +139,6 @@ brew install --cask ngrok
 #brew install --cask datagrip
 #brew install --cask burp-suite
 brew install --cask gitify
-brew install --cask harvest
 brew install --cask docker
 brew install --cask nucleo
 brew install --cask postman
