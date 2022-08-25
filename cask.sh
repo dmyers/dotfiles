@@ -119,6 +119,7 @@ brew install --cask fontplop
 brew install --cask gas-mask
 brew install --cask imagealpha imageoptim
 brew install --cask integrity
+brew install --cask impactor
 brew install --cask iterm2
 brew install --cask warp
 brew install --cask insomnia
