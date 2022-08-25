@@ -161,6 +161,7 @@ brew install --cask ray
 brew install --cask tinkerwell
 brew install --cask hammerspoon
 brew install --cask sqlectron
+brew install --cask robo-3t
 
 # Install design apps
 #brew install --cask avocode
