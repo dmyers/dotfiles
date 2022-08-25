@@ -150,7 +150,8 @@ brew install --cask tabula
 #brew install --cask medis
 #brew install --cask rdm
 brew install --cask tableplus
-brew install --cask sequel-pro
+#brew install --cask sequel-pro
+brew install --cask sequel-ace
 brew install --cask hex-fiend
 brew install --cask borgbackup
 brew install --cask synologyassistant
