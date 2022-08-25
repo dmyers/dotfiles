@@ -63,7 +63,7 @@ brew install --cask the-unarchiver
 brew install --cask typora
 brew install --cask notion
 brew install --cask todoist
-brew install --cask linear
+brew install --cask linear-linear
 brew install --cask unrarx
 brew install --cask carbon-copy-cloner superduper
 brew install --cask discord
