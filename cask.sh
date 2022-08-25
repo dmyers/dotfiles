@@ -89,7 +89,7 @@ brew install --cask hdhomerun
 brew install --cask plex-media-player
 brew install --cask mediainfo
 brew install --cask caption
-brew install --cask thinkorswim
+#brew install --cask thinkorswim
 brew install --cask balenaetcher
 brew install --cask imaging-edge
 brew install --cask gifox
