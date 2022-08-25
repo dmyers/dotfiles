@@ -98,6 +98,7 @@ brew install --cask xscope
 brew install --cask kap
 brew install --cask obs
 #brew install --cask ishowu
+brew install --cask parsehub
 brew install --cask raspberry-pi-imager
 
 # Install dev apps
