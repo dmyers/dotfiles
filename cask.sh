@@ -49,6 +49,7 @@ brew install --cask komanda
 brew install --cask mac2imgur
 #brew install --cask macdown
 brew install --cask google-chrome
+brew install --cask tor-browser
 #brew install --cask google-drive
 #brew install --cask google-drive-file-stream
 brew install --cask zoom
