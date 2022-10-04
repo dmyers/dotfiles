@@ -131,6 +131,7 @@ brew install --cask pusher
 brew install --cask shuttle
 #brew install --cask vagrant
 #brew install --cask vagrant-manager
+brew install --cask utm
 #brew install --cask virtualbox
 #brew install --cask cyberduck
 brew install --cask royal-tsx
