@@ -97,3 +97,4 @@ npm install -g @cloudflare/wrangler
 npm install -g vue-devtools
 npm install -g web-ext
 npm install -g @pliny/cli
+npm install -g vsce
