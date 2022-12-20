@@ -13,6 +13,7 @@
 [alias]
 	st = status
 	nuke = ! git reset --hard && git clean -df
+	squish = ! git reset $(git merge-base master $(git branch --show-current))
 
 [log]
 	date = local
