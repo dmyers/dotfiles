@@ -145,7 +145,7 @@ brew install git
 brew install git-lfs
 brew install gitlab-runner
 brew install gd
-brew install mcrypt
+#brew install mcrypt
 brew install hub
 brew install pup
 brew install jq
