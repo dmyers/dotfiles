@@ -103,6 +103,7 @@ brew install --cask obs
 #brew install --cask ishowu
 brew install --cask parsehub
 brew install --cask raspberry-pi-imager
+brew install --cask mounty
 
 # Install dev apps
 brew install --cask brewservicesmenubar
