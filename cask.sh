@@ -34,6 +34,7 @@ brew install --cask sourcetree
 brew install --cask gitkraken
 
 # Install general apps
+brew install --cask lulu
 brew install --cask raycast
 brew install --cask numi
 brew install --cask zulu
