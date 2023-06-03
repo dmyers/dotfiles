@@ -158,7 +158,7 @@ brew install vegeta
 #brew install docker-machine
 brew install wrk
 brew install mitmproxy
-brew install flyctl
+#brew install flyctl
 #brew install heroku-toolbelt
 brew install tidy-html5
 brew install ctags
