@@ -112,6 +112,8 @@ brew install --cask aws-vpn-client
 #brew install --cask qv2ray
 #brew install --cask v2rayx
 #brew install --cask outline-manager
+#brew install --cask shadowsocksx
+#brew install --cask shadowsocksx-ng
 
 # Install dev apps
 brew install --cask brewservicesmenubar
