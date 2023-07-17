@@ -110,11 +110,13 @@ brew install --cask parsehub
 brew install --cask raspberry-pi-imager
 #brew install --cask mounty
 
+# Install VPN apps
+brew install --cask aws-vpn-client
+
 # Install dev apps
 brew install --cask brewservicesmenubar
 brew install --cask devdocs
 brew install --cask phpmon
-brew install --cask aws-vpn-client
 brew install --cask iconizer
 brew install --cask chromedriver
 brew install --cask mysqlworkbench
