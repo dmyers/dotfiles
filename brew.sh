@@ -125,6 +125,7 @@ brew install woff2
 
 # Install VPN tools
 brew install openvpn
+brew install shadowsocks-libev
 
 # Install SSH tools
 brew install autossh
