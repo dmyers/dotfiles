@@ -34,8 +34,6 @@ brew install --cask sourcetree
 brew install --cask gitkraken
 
 # Install general apps
-#brew install --cask qv2ray
-#brew install --cask v2rayx
 brew install --cask lulu
 brew install --cask raycast
 brew install --cask numi
@@ -88,7 +86,6 @@ brew install --cask battle-net
 brew install --cask 1password 1password-cli
 brew install --cask mendeley
 #brew install --cask handbrake
-brew install --cask outline-manager
 #brew install --cask alfred
 brew install --cask hdhomerun
 brew install --cask home-assistant
@@ -112,6 +109,9 @@ brew install --cask raspberry-pi-imager
 
 # Install VPN apps
 brew install --cask aws-vpn-client
+#brew install --cask qv2ray
+#brew install --cask v2rayx
+#brew install --cask outline-manager
 
 # Install dev apps
 brew install --cask brewservicesmenubar
