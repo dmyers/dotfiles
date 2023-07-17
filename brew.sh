@@ -103,7 +103,6 @@ brew install prettyping
 brew install swaks
 brew install libdvdcss
 brew install smartmontools
-brew install openvpn
 brew install ddclient
 brew install slackcat
 brew install slacknimate
@@ -123,6 +122,9 @@ brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graph
 brew install sfnt2woff
 brew install sfnt2woff-zopfli
 brew install woff2
+
+# Install VPN tools
+brew install openvpn
 
 # Install SSH tools
 brew install autossh
