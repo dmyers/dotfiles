@@ -14,3 +14,6 @@ mas install 409183694
 
 # Sip
 mas install 507257563
+
+# Outline
+mas install 932747118
