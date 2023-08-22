@@ -28,10 +28,10 @@ brew install --cask visual-studio-code
 #brew install --cask sublime-text
 
 # Install git clients
-brew install --cask github
-brew install --cask sublime-merge
 brew install --cask sourcetree
-brew install --cask gitkraken
+brew install --cask github
+#brew install --cask sublime-merge
+#brew install --cask gitkraken
 
 # Install general apps
 brew install --cask lulu
