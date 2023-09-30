@@ -64,7 +64,6 @@ brew install --cask spotify
 brew install --cask steam
 brew install --cask transmission
 brew install --cask vlc
-brew install --cask the-unarchiver
 brew install --cask typora
 brew install --cask notion
 brew install --cask todoist
@@ -174,6 +173,7 @@ brew install --cask tinkerwell
 brew install --cask hammerspoon
 brew install --cask sqlectron
 brew install --cask robo-3t
+#brew install --cask the-unarchiver
 
 # Install design apps
 #brew install --cask avocode
