@@ -12,3 +12,5 @@ docker pull wpscanteam/wpscan
 docker pull wpscanteam/vulnerablewordpress
 docker pull citizenstig/dvwa
 docker pull owasp/zap2docker-stable
+docker pull pandoc/core
+#docker pull pandoc/latex
