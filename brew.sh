@@ -195,6 +195,7 @@ brew install lnav
 brew install shopify-cli
 brew install stripe/stripe-cli/stripe
 brew install dopplerhq/cli/doppler
+brew install pandoc
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
