@@ -239,6 +239,7 @@ brew install metabase
 
 # Install AWS tools
 brew install awscli
+brew install session-manager-plugin
 brew install awslogs
 brew install amazon-ecs-cli
 #brew install aws-elasticbeanstalk
