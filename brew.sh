@@ -196,6 +196,7 @@ brew install shopify-cli
 brew install stripe/stripe-cli/stripe
 brew install dopplerhq/cli/doppler
 brew install pandoc
+brew install tailspin
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install aircrack-ng
