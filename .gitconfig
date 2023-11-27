@@ -13,6 +13,7 @@
 [alias]
 	st = status
 	nuke = ! git reset --hard && git clean -df
+	# https://stackoverflow.com/questions/25356810/git-how-to-squash-all-commits-on-branch/25357146#25357146
 	squish = ! git reset $(git merge-base master $(git branch --show-current))
 
 [log]
