@@ -115,6 +115,7 @@ brew install blueutil
 brew install ical-buddy
 brew install gdrive
 #brew install clamav
+brew install fswatch
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
