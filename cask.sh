@@ -43,6 +43,7 @@ brew install --cask airtable
 #brew install --cask arq
 brew install --cask appcleaner
 brew install --cask audacity
+brew install --cask ocenaudio
 brew install --cask keepingyouawake
 brew install --cask caffeine
 #brew install --cask dropbox
