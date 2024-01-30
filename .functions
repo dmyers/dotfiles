@@ -65,3 +65,13 @@ function drun-fn {
 function dsr-fn {
   docker stop $1;docker rm $1
 }
+
+# Find a PR by search term
+function findpr() {
+  gh pr list -S $1 --json number --jq '.[].number';
+}
+
+# Checkout PR by search term
+function prc() {
+  gh pr checkout $(findpr $1);
+}
