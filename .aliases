@@ -101,7 +101,7 @@ alias dsr="dsr-fn"
 alias artisan="php artisan"
 
 # Laravel Sail global alias
-alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'
+alias sail="[ -f sail ] && bash sail || bash vendor/bin/sail"
 
 # GitHub PR checkout alias
-alias pr='gh pr checkout'
+alias pr="gh pr checkout"
