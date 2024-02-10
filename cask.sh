@@ -107,6 +107,7 @@ brew install --cask parsehub
 brew install --cask raspberry-pi-imager
 #brew install --cask mounty
 #brew install --cask slic3r
+brew install --cask blender
 
 # Install VPN apps
 brew install --cask aws-vpn-client
