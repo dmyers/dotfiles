@@ -181,7 +181,8 @@ brew install procyon-decompiler
 brew install asciinema
 brew install ghostscript
 brew install rclone
-brew install mailhog
+#brew install mailhog
+brew install mailpit
 brew install poppler
 brew install kylef/formulae/swiftenv
 brew install kubectl
