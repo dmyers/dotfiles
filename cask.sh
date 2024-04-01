@@ -181,6 +181,7 @@ brew install --cask robo-3t
 # Install design apps
 #brew install --cask avocode
 brew install --cask skitch
+brew install --cask upscayl
 
 # Install networking apps
 brew install --cask angry-ip-scanner
