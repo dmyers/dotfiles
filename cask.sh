@@ -121,9 +121,10 @@ brew install --cask aws-vpn-client
 #brew install --cask shadowsocksx-ng
 
 # Install dev apps
-brew install --cask brewservicesmenubar
+brew install --cask herd
+#brew install --cask brewservicesmenubar
 brew install --cask devdocs
-brew install --cask phpmon
+#brew install --cask phpmon
 brew install --cask iconizer
 brew install --cask chromedriver
 brew install --cask mysqlworkbench
