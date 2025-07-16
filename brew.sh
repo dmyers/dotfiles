@@ -216,6 +216,7 @@ brew install knock
 brew install hashpump
 
 # Install prog langs
+brew install go
 brew install node nvm
 brew install yarn
 brew install python
