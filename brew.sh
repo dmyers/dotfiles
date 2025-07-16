@@ -220,6 +220,7 @@ brew install go
 brew install node nvm
 brew install yarn
 brew install python
+brew install uv
 brew install rustup
 brew install php@7.4
 brew install composer
