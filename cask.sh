@@ -34,6 +34,7 @@ brew install --cask github
 #brew install --cask gitkraken
 
 # Install general apps
+brew install --cask voiceink
 brew install --cask pearcleaner
 brew install --cask chatgpt
 brew install --cask lulu
