@@ -219,6 +219,7 @@ brew install hashpump
 brew install go
 brew install node nvm
 brew install yarn
+brew install oven-sh/bun/bun
 brew install python
 brew install uv
 brew install rustup
