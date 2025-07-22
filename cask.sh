@@ -143,7 +143,6 @@ brew install --cask warp
 brew install --cask insomnia
 brew install --cask istumbler
 brew install --cask jewelrybox
-brew install --cask kitematic
 brew install --cask pusher
 brew install --cask shuttle
 #brew install --cask vagrant
