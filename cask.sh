@@ -184,7 +184,6 @@ brew install --cask robo-3t
 #brew install --cask the-unarchiver
 
 # Install design apps
-#brew install --cask avocode
 #brew install --cask skitch
 brew install --cask upscayl
 
