@@ -138,6 +138,7 @@ brew install sshuttle
 #brew install stormssh
 
 # Install dev tools
+brew install keidarcy/tap/e1s
 brew install asimov
 brew install gh
 brew install romkatv/powerlevel10k/powerlevel10k
