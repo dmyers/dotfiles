@@ -48,7 +48,7 @@ npm install -g puppeteer-cluster
 npm install -g pwa-asset-generator
 npm install -g node-gyp
 npm install -g shelljs
-npm install -g aws-cdk
+#npm install -g aws-cdk
 npm install -g cheerio
 npm install -g pkg
 npm install -g gulp gulp-cli
