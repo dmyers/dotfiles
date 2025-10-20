@@ -138,6 +138,7 @@ brew install sshuttle
 #brew install stormssh
 
 # Install dev tools
+brew install aws-cdk
 brew install codex
 brew install keidarcy/tap/e1s
 brew install asimov
