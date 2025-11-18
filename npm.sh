@@ -62,8 +62,8 @@ npm install -g pm2
 npm install -g nodemon
 npm install -g forever
 npm install -g express-generator
-npm install -g requirejs
-npm install -g grunt-cli
+#npm install -g requirejs
+#npm install -g grunt-cli
 npm install -g imageoptim-cli
 npm install -g ios-sim
 npm install -g ios-deploy
@@ -83,8 +83,8 @@ npm install -g @vue/cli-service-global
 npm install -g vue-native-cli
 npm install -g vue-language-server
 npm install -g framework7-cli
-npm install -g ionic
-npm install -g cordova
+#npm install -g ionic
+#npm install -g cordova
 npm install -g phonegap
 npm install -g nativescript
 npm install -g netlify-cli
