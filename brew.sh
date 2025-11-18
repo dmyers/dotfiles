@@ -139,7 +139,7 @@ brew install sshuttle
 
 # Install dev tools
 brew install aws-cdk
-brew install codex
+#brew install codex (outdated - use npm)
 brew install keidarcy/tap/e1s
 brew install asimov
 brew install gh
