@@ -25,9 +25,9 @@ npm install -g concurrently
 npm install -g chrome-remote-interface
 
 # Install preprocessors
-npm install -g less
-npm install -g node-sass
-npm install -g less2sass
+#npm install -g less
+#npm install -g node-sass
+#npm install -g less2sass
 
 # Install formatters
 npm install -g snazzy
