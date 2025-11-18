@@ -40,6 +40,7 @@ npm install -g semistandard
 npm install -g jshint
 
 # Install dev tools
+npm install -g @openai/codex
 npm install -g snapline
 npm install -g alfy
 npm install -g chromeos-apk
