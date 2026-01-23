@@ -76,6 +76,7 @@ brew install spoof-mac
 brew install icdiff
 brew install archey
 brew install gifify gifsicle
+brew install steipete/tap/gifgrep
 brew install tor
 brew install privoxy
 brew install mackup
