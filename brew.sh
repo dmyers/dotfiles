@@ -140,6 +140,7 @@ brew install sshuttle
 
 # Install AI tools
 brew install openai-whisper
+brew install steipete/tap/peekaboo
 
 # Install dev tools
 brew install aws-cdk
