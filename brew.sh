@@ -138,6 +138,9 @@ brew install sshuttle
 #brew install sshrc
 #brew install stormssh
 
+# Install AI tools
+brew install openai-whisper
+
 # Install dev tools
 brew install aws-cdk
 #brew install codex (outdated - use npm)
