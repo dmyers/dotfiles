@@ -230,16 +230,16 @@ brew install oven-sh/bun/bun
 brew install python
 brew install uv
 brew install rustup
-brew install php@7.4
+brew install php@8.3
 brew install composer
-brew link php@7.4 --force
+#brew link php@8.3 --force
 #brew install php56 --without-apache --without-ldap
 #brew install php56-mcrypt php56-xdebug php56-imagick php56-gmagick php56-pdo-dblib php56-tidy php56-xmldiff
 #brew install php56-geoip
 #brew install php70 --without-ldap
 #brew install php70-mcrypt php70-xdebug php70-imagick php70-gmagick php70-pdo-dblib php70-tidy php70-xmldiff
 #brew install php70-geoip
-brew install php-cs-fixer
+#brew install php-cs-fixer
 
 # Install dbs
 #brew install mysql@8.0 mysql-client
