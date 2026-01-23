@@ -140,6 +140,7 @@ brew install sshuttle
 
 # Install AI tools
 brew install openai-whisper
+brew install steipete/tap/mcporter
 brew install steipete/tap/peekaboo
 
 # Install dev tools
