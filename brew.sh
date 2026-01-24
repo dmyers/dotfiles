@@ -142,6 +142,7 @@ brew install sshuttle
 brew install openai-whisper
 brew install steipete/tap/mcporter
 brew install steipete/tap/peekaboo
+brew install steipete/tap/camsnap
 
 # Install dev tools
 brew install aws-cdk
