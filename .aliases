@@ -1,8 +1,10 @@
 # Always use color output for `ls`
-alias ls="gls --color"
+#alias ls="gls --color"
+alias ls="lsd"
 
 # Add long list format for `ls`
-alias ll="gls -l --color"
+#alias ll="gls -l --color"
+alias ll="lsd -l"
 
 # Always enable colored `grep` output with line numbers
 alias grep='grep -n --color=auto'
