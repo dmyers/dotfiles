@@ -56,10 +56,10 @@ alias netscan="sudo arp-scan --localnet"
 alias pubkey="cat ~/.ssh/id_rsa.pub | pbcopy | printf 'Public key copied.\n'";
 
 # Get current wifi connection name
-alias wifiname="/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | grep -o ' SSID: .*' | sed 's/.*: //'"
+#alias wifiname="/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | grep -o ' SSID: .*' | sed 's/.*: //'"
 
 # Get current wifi connection password
-alias wifipass="security find-generic-password -wa \"$(wifiname)\""
+#alias wifipass="security find-generic-password -wa \"$(wifiname)\""
 
 # Make phpcs use colors with progress during run
 #alias phpcs="phpcs --colors -p"
