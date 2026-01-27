@@ -1,7 +1,7 @@
-# Always use color output for `ls`
+# Use lsd for ls
 alias ls="lsd"
 
-# Add long list format for `ls`
+# Use lsd for ll
 alias ll="lsd -l"
 
 # Always use color output for `ls`
