@@ -17,7 +17,7 @@ brew tap joshuaclayton/formulae
 brew tap xo/xo
 brew tap nicoverbruggen/homebrew-cask
 brew tap bramstein/webfonttools
-brew tap twilio/brew
+#brew tap twilio/brew
 brew tap mongodb/brew
 brew tap shopify/shopify
 
@@ -108,7 +108,7 @@ brew install smartmontools
 brew install ddclient
 brew install slackcat
 brew install slacknimate
-brew install twilio
+#brew install twilio
 brew install mkcert
 brew install shellcheck
 brew install bluetoothconnector
