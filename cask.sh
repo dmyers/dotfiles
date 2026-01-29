@@ -93,7 +93,7 @@ brew install --cask mendeley
 brew install --cask hdhomerun
 brew install --cask home-assistant
 #brew install --cask plex-media-server
-brew install --cask plex-media-player
+#brew install --cask plex-media-player
 brew install --cask mediainfo
 brew install --cask caption
 #brew install --cask thinkorswim
