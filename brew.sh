@@ -161,7 +161,7 @@ brew install dnsmasq
 brew install svn
 brew install git
 brew install git-lfs
-brew install gitlab-runner
+#brew install gitlab-runner
 brew install gd
 #brew install mcrypt
 brew install hub
