@@ -86,7 +86,7 @@ brew install cheat
 brew install doxygen
 brew install mas
 brew install terminal-notifier
-brew install speedtest-cli
+#brew install speedtest-cli
 brew install progress
 brew install visionmedia-watch
 brew install wifi-password
