@@ -12,7 +12,6 @@ brew tap thoughtbot/formulae
 brew tap homebrew/services
 brew tap joshuaclayton/formulae
 brew tap bramstein/webfonttools
-#brew tap twilio/brew
 #brew tap mongodb/brew
 
 # Install GNU core utilities (those that come with macOS are outdated).
@@ -102,7 +101,7 @@ brew install smartmontools
 brew install ddclient
 brew install slackcat
 brew install slacknimate
-#brew install twilio
+#brew install twilio/brew/twilio
 brew install mkcert
 brew install shellcheck
 brew install bluetoothconnector
