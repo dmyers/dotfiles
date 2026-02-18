@@ -11,7 +11,6 @@ brew tap thoughtbot/formulae
 #brew tap homebrew/versions
 brew tap homebrew/services
 brew tap joshuaclayton/formulae
-brew tap bramstein/webfonttools
 
 # Install GNU core utilities (those that come with macOS are outdated).
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
@@ -115,6 +114,7 @@ brew install hurl
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
 
 # Install font tools
+brew tap bramstein/webfonttools
 brew install sfnt2woff
 brew install sfnt2woff-zopfli
 brew install woff2
