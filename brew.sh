@@ -11,7 +11,6 @@ brew tap thoughtbot/formulae
 #brew tap homebrew/versions
 brew tap homebrew/services
 brew tap joshuaclayton/formulae
-brew tap xo/xo
 brew tap bramstein/webfonttools
 #brew tap twilio/brew
 #brew tap mongodb/brew
@@ -198,7 +197,7 @@ brew install kubectl
 brew install dehydrated
 #brew install pulumi
 brew install nektos/tap/act
-brew install usql
+brew install xo/xo/usql
 brew install graphviz
 brew install whalebrew
 brew install dive
