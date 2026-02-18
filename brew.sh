@@ -7,7 +7,6 @@ brew update
 brew upgrade -all
 
 # Tap more package sources
-brew tap homebrew/cask-versions
 brew tap thoughtbot/formulae
 #brew tap homebrew/versions
 brew tap homebrew/services
