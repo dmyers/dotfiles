@@ -153,10 +153,10 @@ brew install cloudflare/cloudflare/cloudflared
 brew install cloc
 brew install doctl
 brew install fastlane
-brew install traefik
+#brew install traefik
 brew install dnstwist
 brew install dnsmasq
-brew install svn
+#brew install svn
 brew install git
 brew install git-lfs
 #brew install gitlab-runner
@@ -166,7 +166,7 @@ brew install hub
 brew install pup
 brew install jq
 brew install gitsh
-brew install ievms
+#brew install ievms
 brew install geoip
 brew install vegeta
 #brew install docker
@@ -181,7 +181,7 @@ brew install ctags
 brew install unused
 brew install no-more-secrets
 brew install gitup
-brew install beanstalkd
+#brew install beanstalkd
 brew install kibana
 brew install wp-cli
 brew install apktool
