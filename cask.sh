@@ -128,8 +128,7 @@ brew install --cask herd
 #brew install --cask nicoverbruggen/homebrew-cask/phpmon
 brew install --cask iconizer
 brew install --cask chromedriver
-brew install --cask mysqlworkbench
-#brew install --cask launchrocket
+#brew install --cask mysqlworkbench
 brew install --cask ksdiff
 brew install --cask chrome-devtools
 brew install --cask cakebrew
