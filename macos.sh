@@ -58,7 +58,7 @@ defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
 ./.app/.activitymonitor
 ./.app/.dock
 ./.app/.finder
-./.app/.itunes
+./.app/itunes.sh
 ./.app/.mail
 ./.app/.timemachine
 ./.app/.transmission
