@@ -8,7 +8,6 @@ brew upgrade -all
 
 # Tap more package sources
 #brew tap homebrew/versions
-brew tap homebrew/services
 
 # Install GNU core utilities (those that come with macOS are outdated).
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
