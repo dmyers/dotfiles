@@ -12,7 +12,6 @@ brew tap thoughtbot/formulae
 brew tap homebrew/services
 brew tap joshuaclayton/formulae
 brew tap bramstein/webfonttools
-#brew tap mongodb/brew
 
 # Install GNU core utilities (those that come with macOS are outdated).
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
@@ -246,7 +245,7 @@ brew install composer
 #brew install redis
 #brew install meilisearch
 #brew install elasticsearch
-#brew install mongodb-community
+#brew install mongodb/brew/mongodb-community
 #brew install influxdb
 #brew install dynamodb-local
 brew install metabase
