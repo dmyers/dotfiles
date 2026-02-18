@@ -146,6 +146,7 @@ brew install steipete/tap/camsnap
 
 # Install dev tools
 brew install typos-cli
+brew install typos-lsp
 brew install aws-cdk
 #brew install codex (outdated - use npm)
 brew install keidarcy/tap/e1s
