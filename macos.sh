@@ -62,7 +62,7 @@ defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
 ./.app/mail.sh
 ./.app/.timemachine
 ./.app/.transmission
-./.app/.terminal
+./.app/terminal.sh
 
 # Kill affected applications
 for app in "Dock" "Finder" "Terminal" "Transmission"; do
