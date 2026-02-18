@@ -7,7 +7,6 @@ brew update
 brew upgrade -all
 
 # Tap more package sources
-brew tap thoughtbot/formulae
 #brew tap homebrew/versions
 brew tap homebrew/services
 
@@ -160,7 +159,7 @@ brew install gd
 brew install hub
 brew install pup
 brew install jq
-brew install gitsh
+brew install thoughtbot/formulae/gitsh
 #brew install ievms
 brew install geoip
 brew install vegeta
