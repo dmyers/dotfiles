@@ -12,7 +12,6 @@ brew tap thoughtbot/formulae
 brew tap homebrew/services
 brew tap joshuaclayton/formulae
 brew tap xo/xo
-brew tap nicoverbruggen/homebrew-cask
 brew tap bramstein/webfonttools
 #brew tap twilio/brew
 #brew tap mongodb/brew
