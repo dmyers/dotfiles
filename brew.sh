@@ -10,7 +10,6 @@ brew upgrade -all
 brew tap thoughtbot/formulae
 #brew tap homebrew/versions
 brew tap homebrew/services
-brew tap joshuaclayton/formulae
 
 # Install GNU core utilities (those that come with macOS are outdated).
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
@@ -174,7 +173,7 @@ brew install mitmproxy
 #brew install heroku-toolbelt
 brew install tidy-html5
 brew install ctags
-brew install unused
+brew install joshuaclayton/formulae/unused
 brew install no-more-secrets
 brew install gitup
 #brew install beanstalkd
