@@ -86,7 +86,8 @@ brew install --cask fanny
 #brew install --cask daisydisk
 brew install --cask chrome-remote-desktop-host
 brew install --cask battle-net
-brew install --cask 1password 1password-cli
+brew install --cask bitwarden
+#brew install --cask 1password 1password-cli
 brew install --cask mendeley
 #brew install --cask handbrake
 #brew install --cask alfred
