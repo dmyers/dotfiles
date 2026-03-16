@@ -104,6 +104,7 @@ brew install gdrive
 #brew install clamav
 brew install fswatch
 brew install hurl
+brew install immich-cli
 
 # Install image optimizers
 brew install advancecomp jhead jpegoptim jpeg optipng pngcrush imagemagick graphicsmagick
@@ -260,8 +261,8 @@ brew install ffmpeg
 # Install CLI completions
 brew install brew-cask-completion
 brew install bash-completion2
-brew install wpcli-completion
-brew install ruby-completion
+#brew install wpcli-completion
+#brew install ruby-completion
 #brew install grunt-completion
 #brew install vagrant-completion
 
