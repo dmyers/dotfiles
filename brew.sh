@@ -38,6 +38,7 @@ brew cask install java
 #brew install instantclient-basic instantclient-sdk instantclient-sqlplus
 
 # Install other useful binaries
+brew install pwgen
 brew install pgrep
 brew install gnupg
 brew install grc
